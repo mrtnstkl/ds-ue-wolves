@@ -61,3 +61,125 @@ def season_from_month(month):
         return 'Summer'
     else:
         return 'Fall'
+
+
+# Widgets
+
+import ipywidgets as widgets
+from ipywidgets import interactive
+from IPython.display import display
+from dbrepo.RestClient import RestClient
+
+
+class DownloadDataWidget:
+    def __init__(self, use_auth=False, database_id=None, table_id=None, text='Load Data'):
+        self.use_auth = use_auth
+        self.database_id, self.table_id = database_id, table_id
+        self.user_input = widgets.Text(
+            description='User:',
+            placeholder='Enter your username',
+        )
+        self.pass_input = widgets.Password(
+            description='Password:',
+            placeholder='Enter your password',
+        )
+        self.load_button = widgets.Button(
+            description=text,
+            button_style='success',
+            tooltip='Click to load data from dbrepo',
+        )
+        self.output = widgets.Output()
+        self.data = None
+
+    def load_data(self, b=None):
+        with self.output:
+            self.output.clear_output()
+            username = None
+            password = None
+            if self.use_auth:
+                username = self.user_input.value
+                password = self.pass_input.value
+                if not username or not password:
+                    print("Please enter both username and password.")
+                    return
+
+            client = RestClient(
+                endpoint="https://test.dbrepo.tuwien.ac.at", 
+                username=username,
+                password=password
+            )
+            
+            data = client.get_table_data(
+                database_id=self.database_id,
+                table_id=self.table_id,
+                size=1000,
+            )
+            raw_df = pd.DataFrame(data)
+            print("Data loaded successfully.")
+            print(f"Number of rows: {len(raw_df)}")
+            print(raw_df.head())
+            self.data = raw_df
+
+    def display(self):
+        if self.use_auth:
+            display(self.user_input, self.pass_input, self.load_button, self.output)
+        else:
+            display(self.load_button, self.output)
+        self.load_button.on_click(self.load_data)
+
+    def get_data(self):
+        if self.data is not None:
+            return self.data
+        else:
+            raise ValueError("Data not loaded. Please load data first.")
+
+class SaveDataFrameWidget:
+    def __init__(self, df, path, label="Save DataFrame"):
+        self.df = df
+        self.path = path
+        self.save_button = widgets.Button(
+            description=label,
+            button_style='success',
+            tooltip=f"Click to save data to {path}",
+        )
+        self.output = widgets.Output()
+        self.save_button.on_click(self.save_data)
+
+    def save_data(self, b=None):
+        with self.output:
+            self.output.clear_output()
+            try:
+                self.df.to_csv(self.path, index=False)
+                print(f"Data saved to {self.path}")
+            except Exception as e:
+                print(f"Error saving data: {e}")
+
+    def display(self):
+        display(self.save_button, self.output)
+
+class LoadDataWidget:
+    def __init__(self, path, on_load, label="Load DataFrame"):
+        self.path = path
+        self.on_load = on_load
+        self.load_button = widgets.Button(
+            description=label,
+            button_style='success',
+            tooltip=f"Click to load data from {path}",
+        )
+        self.output = widgets.Output()
+        self.load_button.on_click(self.load_data)
+        
+    def load_data(self, b=None):
+        with self.output:
+            self.output.clear_output()
+            try:
+                if self.path.endswith('.csv'):
+                    self.on_load(pd.read_csv(self.path))
+                elif self.path.endswith('.pkl'):
+                    self.on_load(pd.read_pickle(self.path))
+                print(f"Data loaded from {self.path}")
+            except Exception as e:
+                print(f"Error loading data: {e}")
+
+    def display(self):
+        display(self.load_button, self.output)
