@@ -1,0 +1,5 @@
+__pycache__/
+
+data/wolf_sightings_processed.csv
+data/wolf_sighting_events.csv
+data/wolf_sightings_kmeans.pkl

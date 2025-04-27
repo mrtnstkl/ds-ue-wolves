@@ -1,0 +1,8 @@
+pandas
+numpy
+urllib3
+rapidfuzz
+folium
+scikit-learn
+ipywidgets
+dbrepo
