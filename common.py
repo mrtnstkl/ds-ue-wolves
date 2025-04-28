@@ -1,5 +1,6 @@
 import pandas as pd
-
+import requests
+import os
 
 # Paths
 
@@ -183,3 +184,85 @@ class LoadDataWidget:
 
     def display(self):
         display(self.load_button, self.output)
+
+class TuwrdUploadWidget:
+    def __init__(self, base_url, record_id, label="Upload"):
+        self.base_url = base_url
+        self.record_id = record_id
+        self.token_widget = widgets.Password(
+            description='TUWRD Token',
+            placeholder='Enter your access token',
+        )
+        self.upload_button = widgets.Button(
+            description=label,
+            button_style='success',
+            tooltip="Click to upload data to TUWrd",
+        )
+        self.output = widgets.Output()
+        self.upload_button.on_click(self.upload_data)
+        self.files = []
+
+    def add_file(self, file_path, resource_name):
+        """
+        Add a file to the upload list.
+        :param file_path: Path to the file on disk
+        :param resource_name: Name for the resource on TUWRD
+        """
+        self.files.append((file_path, resource_name))
+
+    def upload_data(self, b=None):
+        with self.output:
+            self.output.clear_output()
+            if not self.token_widget.value:
+                print("Please enter your TUWRD access token.")
+                return
+            if not self.files:
+                print("No files added for upload.")
+                return
+
+            for file_path, resource_name in self.files:
+                if not os.path.exists(file_path):
+                    print(f"File not found: {file_path}")
+                    continue
+                print (f"Uploading {file_path} as {resource_name}...")
+                try:
+                    # Step 1: Initialize File Upload                    
+                    url = f"{self.base_url}/api/records/{self.record_id}/draft/files"
+                    headers = {
+                        "Authorization": f"Bearer {self.token_widget.value}",
+                        "Content-Type": "application/json"
+                    }
+                    data = [{"key": resource_name}]
+                    response = requests.post(url, json=data, headers=headers)
+                    if response.status_code != 201:
+                        print(f"Failed to initialize upload for {resource_name}: {response.status_code}")
+                        print(response.text)
+                        continue
+                    # Step 2: Upload the file
+                    url = f"{self.base_url}/api/records/{self.record_id}/draft/files/{resource_name}/content"
+                    headers = {
+                        "Authorization": f"Bearer {self.token_widget.value}",
+                        "Content-Type": "application/octet-stream"
+                    }
+                    with open(file_path, "rb") as file_data:
+                        response = requests.put(url, headers=headers, data=file_data)
+                    if response.status_code != 200:
+                        print(f"Failed to upload {file_path}: {response.status_code}")
+                        print(response.text)
+                        continue
+                    # Step 3: Commit Draft File Upload
+                    url = f"{self.base_url}/api/records/{self.record_id}/draft/files/{resource_name}/commit"
+                    headers = {
+                        "Authorization": f"Bearer {self.token_widget.value}",
+                    }
+                    response = requests.post(url, headers=headers)
+                    if response.status_code != 200:
+                        print(f"Failed to commit upload for {resource_name}: {response.status_code}")
+                        print(response.text)
+                        continue
+                    print(f"Successfully uploaded {file_path} as {resource_name}.")
+                except Exception as e:
+                    print(f"Error uploading {resource_name}: {e}")
+
+    def display(self):
+        display(self.token_widget, self.upload_button, self.output)
