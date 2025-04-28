@@ -1,0 +1,442 @@
+datum,ort,meldung,status,jahr,id,lat,lon,coord_bin,region_id,timestamp,month,season,recent_sightings,days_since_last_sighting
+20.04.2025,Vorderweißenbach,Wolfssichtung,Fotonachweis vorhanden,2025,1,48.55184555053711,14.218729019165039,"(48.67, 14.25)",8,2025-04-20,4,Spring,2,15
+20.04.2025,Wallern an der Trattnach,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,2,48.23209762573242,13.946207046508789,"(48.33, 14.0)",4,2025-04-20,4,Spring,2,5
+19.04.2025,Pabneukirchen,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,3,48.319297790527344,14.81700611114502,"(48.33, 14.75)",1,2025-04-19,4,Spring,0,73
+15.04.2025,St.Oswald bei Freistadt,Wolfssichtung,Fotonachweis vorhanden,2025,4,48.20309066772461,13.683045387268066,"(48.33, 13.75)",4,2025-04-15,4,Spring,1,20
+11.04.2025,Gaflenz,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,5,47.89495849609375,14.724047660827637,"(48.0, 14.75)",7,2025-04-11,4,Spring,0,91
+09.04.2025,Leopoldschlag,Wolfssichtung,Fotonachweis vorhanden,2025,6,48.61591720581055,14.50361156463623,"(48.67, 14.5)",6,2025-04-09,4,Spring,0,52
+05.04.2025,St.Martin im Mühlkreis,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,7,48.41541290283203,14.03884506225586,"(48.33, 14.0)",8,2025-04-05,4,Spring,2,3
+04.04.2025,Ulrichsberg,Wolfssichtung,Fotonachweis vorhanden,2025,8,47.9760856628418,13.600279808044434,"(48.0, 13.5)",9,2025-04-04,4,Spring,2,25
+02.04.2025,Bad Leonfelden,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,9,48.52265167236328,14.293068885803223,"(48.67, 14.25)",8,2025-04-02,4,Spring,2,27
+27.03.2025,Oberhofen am Irrsee,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,10,47.95217514038086,13.30579948425293,"(48.0, 13.25)",5,2025-03-27,3,Spring,1,5
+26.03.2025,Grieskirchen,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,11,48.23501205444336,13.826191902160645,"(48.33, 13.75)",4,2025-03-26,3,Spring,0,78
+23.03.2025,Oberkappel,1 totes Reh,begutachtet - DNA-Probe: kein eindeutiges Ergebnis,2025,12,48.55284881591797,13.770484924316406,"(48.67, 13.75)",0,2025-03-23,3,Spring,0,89
+23.03.2025,Aigen-Schlägl,1 totes Reh,begutachtet - DNA-Analyse: Wolf bestätigt,2025,13,48.644813537597656,13.96917724609375,"(48.67, 14.0)",0,2025-03-23,3,Spring,0,89
+22.03.2025,Eberschwang,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,14,48.15569305419922,13.561890602111816,"(48.0, 13.5)",5,2025-03-22,3,Spring,0,77
+16.03.2025,Rohrbach,1 totes Reh,begutachtet - DNA-Analyse: Wolf bestätigt,2025,15,48.21698760986328,14.351035118103027,"(48.33, 14.25)",3,2025-03-16,3,Spring,8,11
+10.03.2025,Ulrichsberg,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,16,47.9760856628418,13.600279808044434,"(48.0, 13.5)",9,2025-03-10,3,Spring,2,5
+06.03.2025,Gramastetten,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,17,48.3791618347168,14.191792488098145,"(48.33, 14.25)",8,2025-03-06,3,Spring,1,2
+05.03.2025,Schwertberg,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,18,47.97472381591797,13.67065715789795,"(48.0, 13.75)",9,2025-03-05,3,Spring,1,3
+05.03.2025,St.Oswald bei Haslach,Wolfssichtung,Fotonachweis vorhanden,2025,19,48.35695266723633,14.348211288452148,"(48.33, 14.25)",3,2025-03-05,3,Spring,6,1
+05.03.2025,St.Oswald bei Haslach,Wolfssichtung,kein Fotonachweis vorhanden,2025,20,48.35695266723633,14.348211288452148,"(48.33, 14.25)",3,2025-03-05,3,Spring,6,1
+05.03.2025,St.Oswald bei Haslach,Wolfssichtung,Fotonachweis vorhanden,2025,21,48.35695266723633,14.348211288452148,"(48.33, 14.25)",3,2025-03-05,3,Spring,6,1
+05.03.2025,St.Oswald bei Haslach,Wolfssichtung,Fotonachweis vorhanden,2025,22,48.35695266723633,14.348211288452148,"(48.33, 14.25)",3,2025-03-05,3,Spring,6,1
+04.03.2025,St.Oswald bei Haslach,Wolfsvergrämung,,2025,23,48.35695266723633,14.348211288452148,"(48.33, 14.25)",3,2025-03-04,3,Spring,4,13
+04.03.2025,St.Oswald bei Haslach,Wolfssichtung,Fotonachweis vorhanden,2025,24,48.35695266723633,14.348211288452148,"(48.33, 14.25)",3,2025-03-04,3,Spring,4,13
+04.03.2025,Gramastetten,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,25,48.3791618347168,14.191792488098145,"(48.33, 14.25)",8,2025-03-04,3,Spring,0,79
+02.03.2025,Gosau,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,26,47.585105895996094,13.536215782165527,"(47.67, 13.5)",9,2025-03-02,3,Spring,0,118
+19.02.2025,Rohrbach,Wolfsvergrämung,,2025,28,48.21698760986328,14.351035118103027,"(48.33, 14.25)",3,2025-02-19,2,Winter,4,10
+19.02.2025,Rohrbach,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,29,48.21698760986328,14.351035118103027,"(48.33, 14.25)",3,2025-02-19,2,Winter,4,10
+16.02.2025,Liebenau,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,30,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2025-02-16,2,Winter,0,44
+09.02.2025,St.Oswald bei Haslach,Wolfssichtung,Fotonachweis vorhanden,2025,31,48.35695266723633,14.348211288452148,"(48.33, 14.25)",3,2025-02-09,2,Winter,3,3
+06.02.2025,St.Oswald bei Haslach,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,32,48.35695266723633,14.348211288452148,"(48.33, 14.25)",3,2025-02-06,2,Winter,2,7
+05.02.2025,Grein,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,33,48.227176666259766,14.855195045471191,"(48.33, 14.75)",1,2025-02-05,2,Winter,3,9
+30.01.2025,Freistadt,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,34,48.511295318603516,14.504756927490234,"(48.67, 14.5)",3,2025-01-30,1,Winter,1,7
+27.01.2025,Unterweißenbach,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,35,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2025-01-27,1,Winter,6,1
+26.01.2025,Unterweißenbach,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,36,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2025-01-26,1,Winter,5,17
+23.01.2025,St.Oswald bei Haslach,Wolfssichtung,Fotonachweis vorhanden,2025,37,48.35695266723633,14.348211288452148,"(48.33, 14.25)",3,2025-01-23,1,Winter,0,213
+16.01.2025,Spital am Pyhrn,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,39,47.66461181640625,14.340187072753906,"(47.67, 14.25)",2,2025-01-16,1,Winter,0,54
+10.01.2025,Gaflenz,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,40,47.89495849609375,14.724047660827637,"(48.0, 14.75)",7,2025-01-10,1,Winter,1,21
+09.01.2025,Pierbach,Nachweis,Fährte Hund oder Wolf,2025,41,48.34822463989258,14.7565279006958,"(48.33, 14.75)",1,2025-01-09,1,Winter,5,5
+07.01.2025,Schönau,Nachweis,Fährte Hund oder Wolf,2025,42,48.241390228271484,13.914891242980957,"(48.33, 14.0)",4,2025-01-07,1,Winter,0,39
+04.01.2025,Vöcklamarkt,Wolfssichtung,Fotonachweis vorhanden,2025,43,48.002220153808594,13.485081672668457,"(48.0, 13.5)",5,2025-01-04,1,Winter,0,46
+04.01.2025,Pierbach,Nachweis,Fährte Hund oder Wolf,2025,44,48.34822463989258,14.7565279006958,"(48.33, 14.75)",1,2025-01-04,1,Winter,5,2
+03.01.2025,Windhaag bei Freistadt,Wolfsvergrämung,,2025,45,48.58619689941406,14.561509132385254,"(48.67, 14.5)",6,2025-01-03,1,Winter,1,11
+02.01.2025,UnterweißenbachLiebenau,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,46,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2025-01-02,1,Winter,4,1
+01.01.2025,Unterweißenbach,mögliche Wolfssichtung,kein Fotonachweis vorhanden,2025,47,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2025-01-01,1,Winter,2,20
+01.01.2025,Schönau im Mühlkreis,Wolfsvergrämung,,2025,48,48.39420700073242,14.729105949401855,"(48.33, 14.75)",1,2025-01-01,1,Winter,2,20
+24.12.2024,Schwarzenberg am Böhmerwald,Wolfsichtung,Fotonachweis vorhanden,2024,49,48.73060989379883,13.834218978881836,"(48.67, 13.75)",0,2024-12-24,12,Winter,0,41
+23.12.2024,Leopoldschlag,Wolfssichtung,kein Fotonachweis vorhanden,2024,50,48.61591720581055,14.50361156463623,"(48.67, 14.5)",6,2024-12-23,12,Winter,0,31
+20.12.2024,Weyer,Wolfssichtung,kein Fotonachweis vorhanden,2024,51,47.85725784301758,14.66356086730957,"(48.0, 14.75)",7,2024-12-20,12,Winter,0,33
+15.12.2024,Freinberg,Nachweis,Fährte Hund oder Wolf,2024,52,48.30012512207031,14.266047477722168,"(48.33, 14.25)",8,2024-12-15,12,Winter,0,52
+12.12.2024,Unterweißenbach,Wolfssichtung,kein Fotonachweis vorhanden,2024,53,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2024-12-12,12,Winter,2,7
+05.12.2024,Unterweißenbach,Wolfsvergrämung,,2024,55,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2024-12-05,12,Winter,1,23
+29.11.2024,Kopfing,1 totes Reh,begutachtet - DNA-Analyse: Wolf bestätigt; nördliche Quellpopulation,2024,56,48.08877944946289,13.904650688171387,"(48.0, 14.0)",4,2024-11-29,11,Fall,2,11
+23.11.2024,Losenstein,Wolfssichtung,Fotonachweis vorhanden,2024,57,47.925968170166016,14.432231903076172,"(48.0, 14.5)",2,2024-11-23,11,Fall,2,11
+22.11.2024,Leopoldschlag,Wolfssichtung,Videonachweis vorhanden,2024,58,48.61591720581055,14.50361156463623,"(48.67, 14.5)",6,2024-11-22,11,Fall,0,51
+19.11.2024,Straßham bei Alkoven,Wolfssichtungen,keine Fotonachweise vorhanden,2024,59,48.14161682128906,13.542238235473633,"(48.0, 13.5)",5,2024-11-19,11,Fall,0,50
+18.11.2024,Bad Schallerbach,Wolfssichtung,Videonachweis vorhanden,2024,60,48.23038864135742,13.919425010681152,"(48.33, 14.0)",4,2024-11-18,11,Fall,1,2
+17.11.2024,Gaflenz,Wolfssichtung,kein Fotonachweis vorhanden,2024,61,47.89495849609375,14.724047660827637,"(48.0, 14.75)",7,2024-11-17,11,Fall,0,106
+17.11.2024,Gaflenz,Wolfssichtung,kein Fotonachweis vorhanden,2024,62,47.89495849609375,14.724047660827637,"(48.0, 14.75)",7,2024-11-17,11,Fall,0,106
+16.11.2024,Ottnang am Hausruck,Wolfssichtung,kein Fotonachweis vorhanden,2024,63,48.095733642578125,13.659505844116211,"(48.0, 13.75)",4,2024-11-16,11,Fall,0,87
+13.11.2024,Aigen-Schlägl,Wolfssichtung,Fotonachweis vorhanden,2024,64,48.644813537597656,13.96917724609375,"(48.67, 14.0)",0,2024-11-13,11,Fall,0,145
+12.11.2024,Unterweißenbach,Wolfssichtung,kein Fotonachweis vorhanden,2024,65,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2024-11-12,11,Fall,0,43
+12.11.2024,Roßleithen,1 totes Stück Damwild,begutachtet - DNA-Analyse: Fuchs bestätigt,2024,66,47.70138931274414,14.274605751037598,"(47.67, 14.25)",2,2024-11-12,11,Fall,1,3
+09.11.2024,Spital an der Phyrn,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2024,67,47.8640251159668,14.121219635009766,"(48.0, 14.0)",2,2024-11-09,11,Fall,1,29
+04.11.2024,Gmunden,Wolfssichtung,kein Fotonachweis vorhanden,2024,68,47.91858673095703,13.800304412841797,"(48.0, 13.75)",9,2024-11-04,11,Fall,0,45
+24.10.2024,Kirchschlag bei Linz,Wolfssichtung,kein Fotonachweis vorhanden,2024,69,48.41309356689453,14.27644157409668,"(48.33, 14.25)",8,2024-10-24,10,Fall,2,23
+11.10.2024,Rosenau am Hengstpass,1 totes Lamm,begutachtet - DNA- Analyse: Fuchs bestätigt,2024,70,47.713134765625,14.388224601745605,"(47.67, 14.5)",2,2024-10-11,10,Fall,1,2
+09.10.2024,Rosenau am Hengstpaß,1 toter Rehbock,begutachtet - DNA-Analyse: Wolf bestätigt; italienische Quellpopulation,2024,71,47.713134765625,14.388224601745605,"(47.67, 14.5)",2,2024-10-09,10,Fall,0,37
+02.10.2024,Leopoldschlag,Wolfssichtung,Fotonachweis vorhanden,2024,72,48.61591720581055,14.50361156463623,"(48.67, 14.5)",6,2024-10-02,10,Fall,1,6
+02.10.2024,Leopoldschlag,Wolfssichtung,kein Fotonachweis vorhanden,2024,73,48.61591720581055,14.50361156463623,"(48.67, 14.5)",6,2024-10-02,10,Fall,1,6
+01.10.2024,Bad Leonfelden,1 totes Schaf,begutachtet - DNA-Analyse: Hund bestätigt,2024,74,48.52265167236328,14.293068885803223,"(48.67, 14.25)",8,2024-10-01,10,Fall,1,3
+30.09.2024,Dimbach,Wolfssichtung,kein Fotonachweis vorhanden,2024,75,48.30641555786133,14.908028602600098,"(48.33, 15.0)",1,2024-09-30,9,Fall,1,27
+30.09.2024,Oberwang,Wolfssichtung,kein Fotonachweis vorhanden,2024,76,47.86764907836914,13.432426452636719,"(48.0, 13.5)",5,2024-09-30,9,Fall,0,144
+28.09.2024,Bad Leonfelden,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2024,77,48.52265167236328,14.293068885803223,"(48.67, 14.25)",8,2024-09-28,9,Fall,0,74
+26.09.2024,Leopoldschlag,Wolfssichtung,kein Fotonachweis vorhanden,2024,78,48.61591720581055,14.50361156463623,"(48.67, 14.5)",6,2024-09-26,9,Fall,0,34
+20.09.2024,Ulrichsberg,Wolfssichtung,Fotonachweis vorhanden,2024,79,47.9760856628418,13.600279808044434,"(48.0, 13.5)",9,2024-09-20,9,Fall,0,111
+03.09.2024,Bad Zell,Wolfssichtung,kein Fotonachweis vorhanden,2024,80,48.349586486816406,14.66864013671875,"(48.33, 14.75)",1,2024-09-03,9,Fall,0,47
+02.09.2024,Rosenau am Hengstpaß,1 verletztes Rind,begutachtet - DNA-Probe: kein eindeutiges Ergebnis,2024,81,47.713134765625,14.388224601745605,"(47.67, 14.5)",2,2024-09-02,9,Fall,0,51
+23.08.2024,Windhaag bei Freistadt,Wolfssichtung,kein Fotonachweis vorhanden,2024,82,48.58619689941406,14.561509132385254,"(48.67, 14.5)",6,2024-08-23,8,Summer,0,42
+21.08.2024,Schlüßlberg,Wolfssichtung,kein Fotonachweis vorhanden,2024,83,48.21814727783203,13.87211799621582,"(48.33, 13.75)",4,2024-08-21,8,Summer,1,5
+16.08.2024,St.Georgen am Walde,Wolfssichtung,Fotonachweis vorhanden,2024,84,48.172584533691406,13.766887664794922,"(48.33, 13.75)",4,2024-08-16,8,Summer,0,33
+03.08.2024,Weyer,1 totes Kalb,begutachtet - DNA-Analyse: Fuchs bestätigt,2024,86,47.85725784301758,14.66356086730957,"(48.0, 14.75)",7,2024-08-03,8,Summer,3,7
+27.07.2024,Großraming,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2024,87,47.88620376586914,14.550121307373047,"(48.0, 14.5)",7,2024-07-27,7,Summer,2,3
+24.07.2024,Gaflenz,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2024,88,47.89495849609375,14.724047660827637,"(48.0, 14.75)",7,2024-07-24,7,Summer,1,7
+18.07.2024,Pierbach,Wolfssichtung,kein Fotonachweis vorhanden,2024,89,48.34822463989258,14.7565279006958,"(48.33, 14.75)",1,2024-07-18,7,Summer,0,67
+17.07.2024,Gaflenz,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2024,90,47.89495849609375,14.724047660827637,"(48.0, 14.75)",7,2024-07-17,7,Summer,0,31
+16.07.2024,Linz,1 totes Reh,begutachtet - DNA-Probe: kein eindeutiges Ergebnis,2024,91,48.305908203125,14.286197662353516,"(48.33, 14.25)",8,2024-07-16,7,Summer,2,7
+14.07.2024,Redlham,Wolfssichtung,kein Fotonachweis vorhanden,2024,92,48.02341079711914,13.744331359863281,"(48.0, 13.75)",4,2024-07-14,7,Summer,1,27
+13.07.2024,Spital am Pyhrn,Wolfssichtung,kein Fotonachweis vorhanden,2024,93,47.66461181640625,14.340187072753906,"(47.67, 14.25)",2,2024-07-13,7,Summer,2,9
+12.07.2024,St.Leonhard bei Freistadt,Wolfssichtung,kein Fotonachweis vorhanden,2024,94,48.443565368652344,14.677597045898438,"(48.33, 14.75)",6,2024-07-12,7,Summer,0,36
+09.07.2024,Linz-Pichling,Sichtung und Losungsfund,Video vorhanden: Hund; Probennahme v. Losung - DNA-Analyse: Hund bestätigt,2024,95,48.305908203125,14.286197662353516,"(48.33, 14.25)",8,2024-07-09,7,Summer,1,8
+04.07.2024,Ternberg,1 verletztes Rind,begutachtet - DNA-Analyse: Hund bestätigt,2024,96,47.94584274291992,14.357251167297363,"(48.0, 14.25)",2,2024-07-04,7,Summer,1,16
+01.07.2024,Linz,Wolfssichtung,kein Fotonachweis vorhanden,2024,97,48.305908203125,14.286197662353516,"(48.33, 14.25)",8,2024-07-01,7,Summer,0,33
+24.06.2024,Tragwein,1 totes Reh,begutachtet; DNA-Probennahme nicht möglich,2024,98,48.331295013427734,14.622075080871582,"(48.33, 14.5)",3,2024-06-24,6,Summer,2,23
+21.06.2024,Aigen-Schlägl,Wolfssichtung,Fotonachweis vorhanden,2024,99,48.644813537597656,13.96917724609375,"(48.67, 14.0)",0,2024-06-21,6,Summer,1,1
+20.06.2024,St.Wolfgang/Schwarzensee,1 totes Schaf,begutachtet - DNA-Probe: kein eindeutiges Ergebnis,2024,100,48.577335357666016,13.888190269470215,"(48.67, 14.0)",0,2024-06-20,6,Summer,0,35
+18.06.2024,Spital am Pyhrn,Wolfssichtung,kein Fotonachweis vorhanden,2024,101,47.66461181640625,14.340187072753906,"(47.67, 14.25)",2,2024-06-18,6,Summer,0,70
+17.06.2024,Pühret,Wolfssichtung,kein Fotonachweis vorhanden,2024,102,48.03562927246094,13.72360610961914,"(48.0, 13.75)",4,2024-06-17,6,Summer,2,13
+16.06.2024,Gaflenz,1 totes Reh,begutachtet - DNA-Analyse: Wolf bestätigt; italienische Quellpopulation,2024,103,47.89495849609375,14.724047660827637,"(48.0, 14.75)",7,2024-06-16,6,Summer,1,23
+06.06.2024,Sandl,Wolfssichtung,kein Fotonachweis vorhanden,2024,104,48.56035614013672,14.644402503967285,"(48.67, 14.75)",6,2024-06-06,6,Summer,9,5
+04.06.2024,Ottnang am Hausruck,1 totes Schaf,begutachtet - DNA-Probe: kein eindeutiges Ergebnis,2024,105,48.095733642578125,13.659505844116211,"(48.0, 13.75)",4,2024-06-04,6,Summer,4,4
+01.06.2024,Aurach am Hongar,Wolfssichtung,Fotonachweis vorhanden,2024,106,47.95231246948242,13.672718048095703,"(48.0, 13.75)",9,2024-06-01,6,Summer,0,50
+01.06.2024,Windhaag bei Freistadt,Wolfssichtung,kein Fotonachweis vorhanden,2024,107,48.58619689941406,14.561509132385254,"(48.67, 14.5)",6,2024-06-01,6,Summer,8,1
+01.06.2024,Ulrichsberg,Wolfssichtung,kein Fotonachweis vorhanden,2024,108,47.9760856628418,13.600279808044434,"(48.0, 13.5)",9,2024-06-01,6,Summer,0,50
+01.06.2024,Kefermarkt,Wolfssichtung,kein Fotonachweis vorhanden,2024,109,48.442962646484375,14.5383882522583,"(48.33, 14.5)",3,2024-06-01,6,Summer,4,5
+31.05.2024,Ottnang am Hausruck,Wolfssichtung,kein Fotonachweis vorhanden,2024,110,48.095733642578125,13.659505844116211,"(48.0, 13.75)",4,2024-05-31,5,Spring,4,21
+31.05.2024,Windhaag bei Freistadt,Wolfssichtung,kein Fotonachweis vorhanden,2024,111,48.58619689941406,14.561509132385254,"(48.67, 14.5)",6,2024-05-31,5,Spring,7,2
+29.05.2024,Sandl,Wolfssichtung,kein Fotonachweis vorhanden,2024,112,48.56035614013672,14.644402503967285,"(48.67, 14.75)",6,2024-05-29,5,Spring,5,1
+29.05.2024,Linz,Wolfssichtung,kein Fotonachweis vorhanden,2024,113,48.305908203125,14.286197662353516,"(48.33, 14.25)",8,2024-05-29,5,Spring,4,3
+29.05.2024,Leopoldschlag,Wolfssichtung,kein Fotonachweis vorhanden,2024,114,48.61591720581055,14.50361156463623,"(48.67, 14.5)",6,2024-05-29,5,Spring,5,1
+28.05.2024,Sandl,2 tote Schafe,begutachtet - DNA-Analyse: Wolf bestätigt; nördliche Quellpopulation,2024,115,48.56035614013672,14.644402503967285,"(48.67, 14.75)",6,2024-05-28,5,Spring,4,1
+27.05.2024,Ottenschlag im Mühlkreis,Wolfssichtung,kein Fotonachweis vorhanden,2024,116,48.466644287109375,14.386953353881836,"(48.33, 14.5)",3,2024-05-27,5,Spring,3,4
+27.05.2024,Windhaag bei Freistadt,Wolfssichtung,Videonachweis vorhanden,2024,117,48.58619689941406,14.561509132385254,"(48.67, 14.5)",6,2024-05-27,5,Spring,3,6
+26.05.2024,Hellmonsödt,Wolfssichtung,kein Fotonachweis vorhanden,2024,118,48.43170166015625,14.300034523010254,"(48.33, 14.25)",8,2024-05-26,5,Spring,4,9
+24.05.2024,Gaflenz,Wolfssichtung,Fotonachweis vorhanden,2024,119,47.89495849609375,14.724047660827637,"(48.0, 14.75)",7,2024-05-24,5,Spring,0,197
+23.05.2024,Haibach im Mühlkreis,Wolfssichtungen,kein Fotonachweis vorhanden,2024,120,48.4420166015625,14.347484588623047,"(48.33, 14.25)",3,2024-05-23,5,Spring,1,12
+23.05.2024,Ottenschlag im Mühlkreis,Wolfssichtung,Fotonachweis vorhanden,2024,121,48.466644287109375,14.386953353881836,"(48.33, 14.5)",3,2024-05-23,5,Spring,1,12
+21.05.2024,Leopoldschlag,Wolfssichtung,kein Fotonachweis vorhanden,2024,122,48.61591720581055,14.50361156463623,"(48.67, 14.5)",6,2024-05-21,5,Spring,5,11
+17.05.2024,Oberneukirchen,Wolfssichtung,Fotonachweis vorhanden,2024,123,48.46451187133789,14.226265907287598,"(48.33, 14.25)",8,2024-05-17,5,Spring,2,7
+17.05.2024,Zwettl an der Rodl,Wolfssichtung,Fotonachweis vorhanden,2024,124,48.466793060302734,14.271305084228516,"(48.33, 14.25)",8,2024-05-17,5,Spring,2,7
+16.05.2024,Kirchberg ob der Donau,Wolfssichtung,Fotonachweis vorhanden,2024,125,48.44362258911133,13.935648918151855,"(48.33, 14.0)",0,2024-05-16,5,Spring,2,22
+12.05.2024,Unterweißenbach,Wolfssichtung,kein Fotonachweis vorhanden,2024,126,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2024-05-12,5,Spring,3,7
+11.05.2024,Altenberg bei Linz,Wolfssichtungen,kein Fotonachweis vorhanden,2024,127,48.373409271240234,14.348564147949219,"(48.33, 14.25)",3,2024-05-11,5,Spring,1,28
+10.05.2024,Liebenau,Wolfssichtung,kein Fotonachweis vorhanden,2024,128,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2024-05-10,5,Spring,4,2
+10.05.2024,Gramastetten,Wolfssichtung,kein Fotonachweis vorhanden,2024,129,48.3791618347168,14.191792488098145,"(48.33, 14.25)",8,2024-05-10,5,Spring,1,14
+10.05.2024,Gaspoltshofen,Wolfssichtung,kein Fotonachweis vorhanden,2024,130,48.14387130737305,13.735146522521973,"(48.0, 13.75)",4,2024-05-10,5,Spring,3,3
+09.05.2024,Fornach,Wolfssichtung,Videonachweis vorhanden,2024,131,48.02287292480469,13.430584907531738,"(48.0, 13.5)",5,2024-05-09,5,Spring,4,8
+08.05.2024,Liebenau,Wolfssichtung,Fotonachweis vorhanden,2024,132,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2024-05-08,5,Spring,3,12
+07.05.2024,Pühret,Wolfssichtung,Videonachweis vorhanden,2024,133,48.03562927246094,13.72360610961914,"(48.0, 13.75)",4,2024-05-07,5,Spring,3,2
+05.05.2024,Königswiesen,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2024,134,48.40572738647461,14.83878231048584,"(48.33, 14.75)",1,2024-05-05,5,Spring,5,7
+05.05.2024,Pfaffing,Wolfssichtung,Fotonachweis vorhanden,2024,135,47.971580505371094,13.99046516418457,"(48.0, 14.0)",4,2024-05-05,5,Spring,2,1
+04.05.2024,Pfaffing,Wolfssichtung,Fotonachweis vorhanden,2024,136,47.971580505371094,13.99046516418457,"(48.0, 14.0)",4,2024-05-04,5,Spring,1,27
+01.05.2024,Wippenham,Wolfssichtung,kein Fotonachweis vorhanden,2024,137,48.22140884399414,13.38154125213623,"(48.33, 13.5)",5,2024-05-01,5,Spring,3,15
+28.04.2024,Pierbach,Wolfssichtung,Fotonachweis vorhanden,2024,138,48.34822463989258,14.7565279006958,"(48.33, 14.75)",1,2024-04-28,4,Spring,4,2
+26.04.2024,Puchenau,Wolfssichtung,kein Fotonachweis vorhanden,2024,139,48.311580657958984,14.24056339263916,"(48.33, 14.25)",8,2024-04-26,4,Spring,1,20
+26.04.2024,Sandl,Wolfssichtung,kein Fotonachweis vorhanden,2024,140,48.56035614013672,14.644402503967285,"(48.67, 14.75)",6,2024-04-26,4,Spring,5,2
+26.04.2024,Pierbach,Wolfssichtung,Fotonachweis vorhanden,2024,141,48.34822463989258,14.7565279006958,"(48.33, 14.75)",1,2024-04-26,4,Spring,3,15
+24.04.2024,Liebenau,Wolfssichtung,kein Fotonachweis vorhanden,2024,142,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2024-04-24,4,Spring,4,1
+24.04.2024,Altenberg,1 totes Lamm,begutachtet; DNA-Analyse: Fuchs bestätigt,2024,143,48.411590576171875,13.812897682189941,"(48.33, 13.75)",0,2024-04-24,4,Spring,4,5
+23.04.2024,Leopoldschlag,1 totes Reh,begutachtet; DNA-Probennahme nicht möglich,2024,144,48.61591720581055,14.50361156463623,"(48.67, 14.5)",6,2024-04-23,4,Spring,3,16
+19.04.2024,Steinbach/Steyr,1 totes Schaf,begutachtet; DNA-Analyse: Fuchs bestätigt,2024,145,48.46249008178711,13.640299797058105,"(48.33, 13.75)",0,2024-04-19,4,Spring,3,22
+16.04.2024,Oberhofen am Irrsee,1 verletztes Pferd,begutachtet; DNA-Probennahme nicht möglich,2024,146,47.95217514038086,13.30579948425293,"(48.0, 13.25)",5,2024-04-16,4,Spring,1,1
+16.04.2024,Oberhofen am Irrsee,1 totes Reh,begutachtet; DNA-Analyse: Wolf bestätigt; nördliche Quellpopulation,2024,147,47.95217514038086,13.30579948425293,"(48.0, 13.25)",5,2024-04-16,4,Spring,1,1
+15.04.2024,Senftenbach,Wolfssichtung,kein Fotonachweis vorhanden,2024,148,48.260826110839844,13.416903495788574,"(48.33, 13.5)",5,2024-04-15,4,Spring,0,104
+13.04.2024,Langenstein,Wolfssichtung,kein Fotonachweis vorhanden,2024,149,48.251285552978516,14.482098579406738,"(48.33, 14.5)",3,2024-04-13,4,Spring,8,3
+12.04.2024,Ulrichsberg,Wolfssichtung,kein Fotonachweis vorhanden,2024,150,47.9760856628418,13.600279808044434,"(48.0, 13.5)",9,2024-04-12,4,Spring,2,5
+11.04.2024,Pierbach,Wolfssichtung,kein Fotonachweis vorhanden,2024,151,48.34822463989258,14.7565279006958,"(48.33, 14.75)",1,2024-04-11,4,Spring,3,4
+10.04.2024,Langenstein,Losungsfund,DNA-Analyse: Wolf bestätigt; nördliche Quellpopulation,2024,152,48.251285552978516,14.482098579406738,"(48.33, 14.5)",3,2024-04-10,4,Spring,7,2
+09.04.2024,Spital am Pyhrn,Wolfssichtung,kein Fotonachweis vorhanden,2024,153,47.66461181640625,14.340187072753906,"(47.67, 14.25)",2,2024-04-09,4,Spring,3,25
+08.04.2024,Langenstein,Wolfssichtung,kein Fotonachweis vorhanden,2024,154,48.251285552978516,14.482098579406738,"(48.33, 14.5)",3,2024-04-08,4,Spring,5,1
+08.04.2024,St.Georgen an der Gusen,Wolfssichtungen,Foto-bzw.Videonachweise vorhanden,2024,155,48.25812911987305,14.46265983581543,"(48.33, 14.5)",3,2024-04-08,4,Spring,5,1
+07.04.2024,Grünbach bei Freistadt,Wolfssichtung,kein Fotonachweis vorhanden,2024,156,48.20309066772461,13.683045387268066,"(48.33, 13.75)",4,2024-04-07,4,Spring,3,15
+07.04.2024,Liebenau,Wolfssichtung,Fotonachweis vorhanden,2024,157,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2024-04-07,4,Spring,4,2
+07.04.2024,Münzbach,Wolfssichtung,Videonachweis vorhanden,2024,158,48.2672004699707,14.713226318359375,"(48.33, 14.75)",1,2024-04-07,4,Spring,2,1
+07.04.2024,Schwertberg,Wolfssichtung,kein Fotonachweis vorhanden,2024,159,47.97472381591797,13.67065715789795,"(48.0, 13.75)",9,2024-04-07,4,Spring,1,20
+07.04.2024,Ried in der Riedmark,Wolfssichtung,kein Fotonachweis vorhanden,2024,160,48.27019119262695,14.529187202453613,"(48.33, 14.5)",3,2024-04-07,4,Spring,1,19
+07.04.2024,Engerwitzdorf,Wolfssichtung,kein Fotonachweis vorhanden,2024,161,48.344451904296875,14.4420166015625,"(48.33, 14.5)",3,2024-04-07,4,Spring,1,19
+07.04.2024,Katsdorf,Wolfssichtung,kein Fotonachweis vorhanden,2024,162,48.318050384521484,14.472869873046875,"(48.33, 14.5)",3,2024-04-07,4,Spring,1,19
+07.04.2024,St.Georgen an der Gusen,Wolfssichtung,kein Fotonachweis vorhanden,2024,163,48.25812911987305,14.46265983581543,"(48.33, 14.5)",3,2024-04-07,4,Spring,1,19
+06.04.2024,Feldkirchen an der Donau,Wolfssichtung,kein Fotonachweis vorhanden,2024,164,48.34489059448242,14.05342960357666,"(48.33, 14.0)",8,2024-04-06,4,Spring,1,14
+06.04.2024,Pierbach,Wolfssichtung,kein Fotonachweis vorhanden,2024,165,48.34822463989258,14.7565279006958,"(48.33, 14.75)",1,2024-04-06,4,Spring,1,12
+05.04.2024,Liebenau,Wolfssichtung,Fotonachweis vorhanden,2024,166,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2024-04-05,4,Spring,3,5
+31.03.2024,Windhaag bei Freistadt,Wolfssichtung,kein Fotonachweis vorhanden,2024,167,48.58619689941406,14.561509132385254,"(48.67, 14.5)",6,2024-03-31,3,Spring,5,14
+28.03.2024,Sarleinsbach u. Atzesberg,Losungsfunde,DNA-Analyse: Wolf bestätigt; nördliche Quellpopulation,2024,168,48.53908920288086,13.869988441467285,"(48.67, 13.75)",0,2024-03-28,3,Spring,1,2
+28.03.2024,Atzesberg,Wolfssichtung,Fotonachweis vorhanden,2024,169,48.53908920288086,13.869988441467285,"(48.67, 13.75)",0,2024-03-28,3,Spring,1,2
+26.03.2024,Sarleinsbach,Wolfssichtung,Fotonachweis vorhanden,2024,170,48.54603958129883,13.905000686645508,"(48.67, 14.0)",0,2024-03-26,3,Spring,0,50
+25.03.2024,Unterweißenbach,Wolfssichtung,kein Fotonachweis vorhanden,2024,171,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2024-03-25,3,Spring,4,22
+23.03.2024,Schlüßlberg,Wolfssichtung,kein Fotonachweis vorhanden,2024,172,48.21814727783203,13.87211799621582,"(48.33, 13.75)",4,2024-03-23,3,Spring,2,1
+23.03.2024,Vorderweißenbach,Wolfssichtung,kein Fotonachweis vorhanden,2024,173,48.55184555053711,14.218729019165039,"(48.67, 14.25)",8,2024-03-23,3,Spring,0,39
+22.03.2024,Michaelnbach,Wolfssichtung,kein Fotonachweis vorhanden,2024,174,48.28852462768555,13.831615447998047,"(48.33, 13.75)",4,2024-03-22,3,Spring,1,8
+19.03.2024,Alberndorf,Wolfssichtung,kein Fotonachweis vorhanden,2024,175,48.40552520751953,14.41844654083252,"(48.33, 14.5)",3,2024-03-19,3,Spring,1,21
+18.03.2024,Ulrichsberg,Wolfssichtung,Fotonachweis vorhanden,2024,176,47.9760856628418,13.600279808044434,"(48.0, 13.5)",9,2024-03-18,3,Spring,0,63
+17.03.2024,Liebenau,Wolfssichtung,Fotonachweis vorhanden,2024,177,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2024-03-17,3,Spring,5,1
+16.03.2024,Liebenau,Wolfssichtung,Fotonachweis vorhanden,2024,178,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2024-03-16,3,Spring,4,11
+15.03.2024,Steinbach am Ziehberg,Wolfssichtung,kein Fotonachweis vorhanden,2024,179,47.891483306884766,14.031570434570312,"(48.0, 14.0)",2,2024-03-15,3,Spring,2,1
+15.03.2024,Molln,2 totes Rotwildkälber,begutachtet - DNA-Analyse: Wolf bestätigt; nördliche Quellpopulation,2024,180,47.88619613647461,14.257271766662598,"(48.0, 14.25)",2,2024-03-15,3,Spring,2,1
+14.03.2024,Molln/Bodinggraben,Wolfssichtung,Fotonachweis vorhanden,2024,181,47.88619613647461,14.257271766662598,"(48.0, 14.25)",2,2024-03-14,3,Spring,1,28
+14.03.2024,Scharnstein,Wolfssichtung,Fotonachweis vorhanden,2024,182,47.90449142456055,13.960975646972656,"(48.0, 14.0)",4,2024-03-14,3,Spring,0,110
+05.03.2024,St.Leonhard bei Freistadt,Wolfssichtung,kein Fotonachweis vorhanden,2024,183,48.443565368652344,14.677597045898438,"(48.33, 14.75)",6,2024-03-05,3,Spring,2,13
+05.03.2024,Liebenau,Wolfssichtung,kein Fotonachweis vorhanden,2024,184,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2024-03-05,3,Spring,2,13
+05.03.2024,Windhaag bei Freistadt,Wolfssichtung,kein Fotonachweis vorhanden,2024,185,48.58619689941406,14.561509132385254,"(48.67, 14.5)",6,2024-03-05,3,Spring,2,13
+03.03.2024,Kaltenberg,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2024,186,48.450138092041016,14.776456832885742,"(48.33, 14.75)",1,2024-03-03,3,Spring,6,1
+02.03.2024,Unterweißenbach,Wolfssichtung,kein Fotonachweis vorhanden,2024,187,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2024-03-02,3,Spring,5,3
+28.02.2024,Schönau im Mühlkreis,Wolfssichtung,kein Fotonachweis vorhanden,2024,188,48.39420700073242,14.729105949401855,"(48.33, 14.75)",1,2024-02-28,2,Winter,4,2
+27.02.2024,Engerwitzdorf,Wolfssichtung,kein Fotonachweis vorhanden,2024,189,48.344451904296875,14.4420166015625,"(48.33, 14.5)",3,2024-02-27,2,Winter,0,69
+26.02.2024,Unterweißenbach,Wolfssichtung,kein Fotonachweis vorhanden,2024,190,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2024-02-26,2,Winter,3,15
+21.02.2024,Liebenau,Wolfssichtung,kein Fotonachweis vorhanden,2024,191,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2024-02-21,2,Winter,1,15
+15.02.2024,Wartberg an der Krems,Wolfssichtung,kein Fotonachweis vorhanden,2024,192,47.98931884765625,14.11867904663086,"(48.0, 14.0)",2,2024-02-15,2,Winter,2,8
+13.02.2024,Oberneukirchen/Eidenberg,Wolfssichtung,Fotonachweis vorhanden,2024,193,48.46451187133789,14.226265907287598,"(48.33, 14.25)",8,2024-02-13,2,Winter,0,39
+11.02.2024,Pierbach,Losungsfund,DNA-Analyse: Fuchs bestätigt,2024,194,48.34822463989258,14.7565279006958,"(48.33, 14.75)",1,2024-02-11,2,Winter,3,1
+10.02.2024,Pierbach,Wolfssichtung,kein Fotonachweis vorhanden,2024,195,48.34822463989258,14.7565279006958,"(48.33, 14.75)",1,2024-02-10,2,Winter,2,1
+09.02.2024,Pierbach,Wolfssichtung,kein Fotonachweis vorhanden,2024,196,48.34822463989258,14.7565279006958,"(48.33, 14.75)",1,2024-02-09,2,Winter,1,18
+07.02.2024,Regau,Losungsfund,DNA-Analyse: Hund bestätigt,2024,197,48.07186508178711,14.141493797302246,"(48.0, 14.25)",2,2024-02-07,2,Winter,1,4
+06.02.2024,Sandl,Wolfssichtung,kein Fotonachweis vorhanden,2024,198,48.56035614013672,14.644402503967285,"(48.67, 14.75)",6,2024-02-06,2,Winter,1,22
+05.02.2024,Steinbach/Attersee,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2024,199,48.46249008178711,13.640299797058105,"(48.33, 13.75)",0,2024-02-05,2,Winter,1,19
+03.02.2024,Regau,Wolfssichtung,kein Fotonachweis vorhanden,2024,200,48.07186508178711,14.141493797302246,"(48.0, 14.25)",2,2024-02-03,2,Winter,0,70
+22.01.2024,Schönau im Mühlkreis,Wolfssichtung,kein Fotonachweis vorhanden,2024,201,48.39420700073242,14.729105949401855,"(48.33, 14.75)",1,2024-01-22,1,Winter,4,17
+17.01.2024,Haibach ob der Donau,Wolfssichtung,kein Fotonachweis vorhanden,2024,202,48.409820556640625,13.916598320007324,"(48.33, 14.0)",0,2024-01-17,1,Winter,0,104
+15.01.2024,Traunkirchen,Losungsfund,DNA-Analyse: Wolf bestätigt; nördliche Quellpopulation,2024,203,47.844825744628906,13.790284156799316,"(48.0, 13.75)",9,2024-01-15,1,Winter,2,6
+15.01.2024,Liebenau,Wolfssichtung,kein Fotonachweis vorhanden,2024,204,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2024-01-15,1,Winter,2,26
+09.01.2024,Obertraun,Wolfssichtung,kein Fotonachweis vorhanden,2024,205,47.55802536010742,13.685288429260254,"(47.67, 13.75)",9,2024-01-09,1,Winter,1,22
+05.01.2024,Klam b. Grein,Wolfssichtung,Videoaufnahme vorhanden,2024,206,48.227176666259766,14.855195045471191,"(48.33, 14.75)",1,2024-01-05,1,Winter,3,1
+05.01.2024,St.Ulrich im Mühlkreis,Wolfssichtung,kein Fotonachweis vorhanden,2024,207,48.4714241027832,14.044130325317383,"(48.33, 14.0)",8,2024-01-05,1,Winter,1,16
+04.01.2024,Dornach (Ortsteil von Saxen),Wolfssichtung,kein Fotonachweis vorhanden,2024,208,48.2080192565918,14.789536476135254,"(48.33, 14.75)",1,2024-01-04,1,Winter,2,11
+02.01.2024,Redleiten,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2024,209,48.08156967163086,13.468873977661133,"(48.0, 13.5)",5,2024-01-02,1,Winter,0,60
+31.01.2023,Oepping,Wolfssichtung,Foto-/Videonachweis vorhanden,2023,210,48.60283660888672,13.945404052734375,"(48.67, 14.0)",0,2023-01-31,1,Winter,0,276
+07.02.2023,Hellmonsödt,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,211,48.43170166015625,14.300034523010254,"(48.33, 14.25)",8,2023-02-07,2,Winter,0,66
+08.02.2023,St.Georgen am Walde/Dimbach,Wolfssichtung,Fotonachweis über Fährte vorhanden,2023,212,48.30641555786133,14.908028602600098,"(48.33, 15.0)",1,2023-02-08,2,Winter,0,62
+11.02.2023,Leonding,Wolfssichtung,Foto-/Videonachweis vorhanden,2023,213,48.27933120727539,14.248745918273926,"(48.33, 14.25)",8,2023-02-11,2,Winter,1,4
+11.02.2023,Rohrbach-Berg,1 totes Schaf,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,214,48.572303771972656,13.990815162658691,"(48.67, 14.0)",0,2023-02-11,2,Winter,1,11
+13.02.2023,Neukirchen bei Lambach,Wolfssichtung,Foto-/Videonachweis vorhanden,2023,215,48.09885025024414,13.814166069030762,"(48.0, 13.75)",4,2023-02-13,2,Winter,0,85
+13.02.2023,Wolfsegg a.H.,Wolfssichtung,Foto-/Videonachweis vorhanden,2023,216,48.33805847167969,14.521017074584961,"(48.33, 14.5)",3,2023-02-13,2,Winter,0,63
+18.02.2023,Eberschwang,1 totes Reh,begutachtet - DNA-Analyse: Wolf bestätigt;italienische Quellpopulation,2023,217,48.15569305419922,13.561890602111816,"(48.0, 13.5)",5,2023-02-18,2,Winter,0,52
+21.02.2023,Herzogsdorf,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,218,48.43106460571289,14.11348819732666,"(48.33, 14.0)",8,2023-02-21,2,Winter,2,10
+26.02.2023,Hofkirchen im Mühlkreis,Wolfssichtung,Fotonachweis vorhanden,2023,219,48.482887268066406,13.810708999633789,"(48.33, 13.75)",0,2023-02-26,2,Winter,2,15
+28.02.2023,Leopoldschlag,Wolfssichtungen,Fotonachweise über Fährten vorhanden,2023,220,48.61591720581055,14.50361156463623,"(48.67, 14.5)",6,2023-02-28,2,Winter,0,81
+01.03.2023,Gutau,Wolfssichtung,Foto-/Videonachweis vorhanden; Fotonachweise über Fährten vorhanden,2023,221,48.418312072753906,14.612236022949219,"(48.33, 14.5)",6,2023-03-01,3,Spring,1,1
+01.03.2023,Tragwein,1 totes Reh,begutachtet - DNA-Analyse: kein eindeutiges Ergebnis,2023,222,48.331295013427734,14.622075080871582,"(48.33, 14.5)",3,2023-03-01,3,Spring,1,16
+01.03.2023,Pregarten,Wolfssichtung,Videonachweis vorhanden,2023,223,48.354984283447266,14.53081226348877,"(48.33, 14.5)",3,2023-03-01,3,Spring,1,16
+04.03.2023,Tragwein/Allerheiligen im Mühlkreis,Wolfssichtung,kein Fotonachweis vorhanden,2023,224,48.331295013427734,14.622075080871582,"(48.33, 14.5)",3,2023-03-04,3,Spring,3,3
+04.03.2023,Dimbach,Wolfssichtung,kein Fotonachweis vorhanden,2023,225,48.30641555786133,14.908028602600098,"(48.33, 15.0)",1,2023-03-04,3,Spring,1,24
+05.03.2023,Münzbach,1 totes Reh,Verdacht auf Wolfsriss; keine abschließende Beurteilung durch DNA möglich,2023,226,48.2672004699707,14.713226318359375,"(48.33, 14.75)",1,2023-03-05,3,Spring,2,1
+06.03.2023,Herzogsdorf,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,227,48.43106460571289,14.11348819732666,"(48.33, 14.0)",8,2023-03-06,3,Spring,3,13
+09.03.2023,Gallneukirchen,Wolfssichtung,Fotonachweis vorhanden,2023,228,48.3531379699707,14.416419982910156,"(48.33, 14.5)",3,2023-03-09,3,Spring,4,5
+14.03.2023,Alberndorf in der Riedmark,Wolfssichtung,Videonachweis vorhanden,2023,229,48.40552520751953,14.41844654083252,"(48.33, 14.5)",3,2023-03-14,3,Spring,5,5
+14.03.2023,Alberndorf in der Riedmark,1 totes Reh,begutachtet - DNA-Analyse: Wolf bestätigt;nördliche Quellpopulation,2023,230,48.40552520751953,14.41844654083252,"(48.33, 14.5)",3,2023-03-14,3,Spring,5,5
+14.03.2023,Herzogsdorf,Wolfssichtung,Fotonachweis vorhanden,2023,231,48.43106460571289,14.11348819732666,"(48.33, 14.0)",8,2023-03-14,3,Spring,2,8
+16.03.2023,Pregarten,Wolfssichtung,Videonachweis vorhanden,2023,232,48.354984283447266,14.53081226348877,"(48.33, 14.5)",3,2023-03-16,3,Spring,6,2
+16.03.2023,Alberndorf in der Riedmark,Wolfssichtung,kein Fotonachweis vorhanden,2023,233,48.40552520751953,14.41844654083252,"(48.33, 14.5)",3,2023-03-16,3,Spring,6,2
+19.03.2023,Haibach im Mühlkreis,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,234,48.4420166015625,14.347484588623047,"(48.33, 14.25)",3,2023-03-19,3,Spring,8,3
+19.03.2023,Unterweißenbach,Wolfssichtung,kein Fotonachweis vorhanden,2023,235,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2023-03-19,3,Spring,2,14
+19.03.2023,Unterweißenbach,1 totes Reh,begutachtet - DNA-Analyse: Wolf bestätigt;nördliche Quellpopulation,2023,236,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2023-03-19,3,Spring,2,14
+21.03.2023,Bad Kreuzen,1 totes Reh,Verdacht auf Wolfsriss; keine abschließende Beurteilung durch DNA möglich,2023,237,48.26671600341797,14.807046890258789,"(48.33, 14.75)",1,2023-03-21,3,Spring,4,2
+27.03.2023,Weitersfelden,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,238,48.47785949707031,14.726517677307129,"(48.33, 14.75)",6,2023-03-27,3,Spring,2,26
+28.03.2023,Tragwein,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,239,48.331295013427734,14.622075080871582,"(48.33, 14.5)",3,2023-03-28,3,Spring,9,9
+28.03.2023,Gramastetten,"2 tote Altschafe,7 tote Lämmer,1 vermisstes Lamm",begutachtet - DNA-Analyse: Wolf bestätigt;nördliche Quellpopulation,2023,240,48.3791618347168,14.191792488098145,"(48.33, 14.25)",8,2023-03-28,3,Spring,2,14
+30.03.2023,Walding,Wolfssichtungen,kein Fotonachweis vorhanden,2023,241,48.351348876953125,14.161396980285645,"(48.33, 14.25)",8,2023-03-30,3,Spring,3,2
+31.03.2023,Gutau,Wolfssichtung,kein Fotonachweis vorhanden,2023,242,48.418312072753906,14.612236022949219,"(48.33, 14.5)",6,2023-03-31,3,Spring,2,4
+31.03.2023,Leopoldschlag,Wolfssichtung,kein Fotonachweis vorhanden,2023,243,48.61591720581055,14.50361156463623,"(48.67, 14.5)",6,2023-03-31,3,Spring,2,4
+31.03.2023,Micheldorf,Losungsfund,DNA-Analyse: Hund bestätigt,2023,244,47.88037872314453,14.13397216796875,"(48.0, 14.25)",2,2023-03-31,3,Spring,0,118
+01.04.2023,Hinzenbach,Wolfssichtung,kein Fotonachweis vorhanden,2023,245,48.30988693237305,14.00672721862793,"(48.33, 14.0)",8,2023-04-01,4,Spring,4,2
+05.04.2023,Tiefgraben,"1 totes Altschaf, 1 totes Lamm",begutachtet - DNA-Analyse: Wolf bestätigt;nördliche Quellpopulation,2023,246,48.241722106933594,13.986942291259766,"(48.33, 14.0)",4,2023-04-05,4,Spring,0,51
+06.04.2023,Gunskirchen,Wolfssichtung,kein Fotonachweis vorhanden,2023,247,48.13345718383789,13.942744255065918,"(48.0, 14.0)",4,2023-04-06,4,Spring,1,1
+07.04.2023,Alberndorf,Wolfssichtung,kein Fotonachweis vorhanden,2023,248,48.40552520751953,14.41844654083252,"(48.33, 14.5)",3,2023-04-07,4,Spring,7,10
+08.04.2023,Hellmonsödt,Wolfssichtung,kein Fotonachweis vorhanden,2023,249,48.43170166015625,14.300034523010254,"(48.33, 14.25)",8,2023-04-08,4,Spring,4,7
+10.04.2023,Tragwein,Wolfssichtung,kein Fotonachweis vorhanden,2023,250,48.331295013427734,14.622075080871582,"(48.33, 14.5)",3,2023-04-10,4,Spring,7,3
+10.04.2023,Tragwein,1 totes Reh,begutachtet - DNA-Analyse: Hund bestätigt,2023,251,48.331295013427734,14.622075080871582,"(48.33, 14.5)",3,2023-04-10,4,Spring,7,3
+17.04.2023,Liebenau,Wolfssichtung,kein Fotonachweis vorhanden,2023,252,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2023-04-17,4,Spring,3,17
+20.04.2023,Unterweißenbach,Wolfssichtung,kein Fotonachweis vorhanden,2023,253,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2023-04-20,4,Spring,1,30
+21.04.2023,Weitersfelden,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,254,48.47785949707031,14.726517677307129,"(48.33, 14.75)",6,2023-04-21,4,Spring,4,4
+25.04.2023,St.Leonhard bei Freistadt,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,255,48.443565368652344,14.677597045898438,"(48.33, 14.75)",6,2023-04-25,4,Spring,5,4
+26.04.2023,Unterach am Attersee,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,256,47.914390563964844,13.535609245300293,"(48.0, 13.5)",9,2023-04-26,4,Spring,0,135
+01.05.2023,Neumarkt im Mühlkreis,Wolfssichtung,Videonachweis vorhanden,2023,257,48.42821502685547,14.48453426361084,"(48.33, 14.5)",3,2023-05-01,5,Spring,3,21
+02.05.2023,Liebenau,Wolfssichtung,kein Fotonachweis vorhanden,2023,258,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2023-05-02,5,Spring,3,7
+02.05.2023,Liebenau,Wolfssichtungen,Foto-/Videonachweis vorhanden,2023,259,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2023-05-02,5,Spring,3,7
+02.05.2023,Frankenburg,1 totes Reh,begutachtet - DNA-Analyse: Hund bestätigt,2023,260,48.068031311035156,13.492144584655762,"(48.0, 13.5)",5,2023-05-02,5,Spring,0,73
+03.05.2023,Holzhausen,Wolfssichtung,Fotonachweis vorhanden,2023,261,48.2230110168457,14.09687614440918,"(48.33, 14.0)",8,2023-05-03,5,Spring,1,25
+03.05.2023,Tragwein,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,262,48.331295013427734,14.622075080871582,"(48.33, 14.5)",3,2023-05-03,5,Spring,4,2
+03.05.2023,Pötting,Wolfssichtung,Fotonachweis vorhanden,2023,263,48.283233642578125,13.771017074584961,"(48.33, 13.75)",4,2023-05-03,5,Spring,2,27
+03.05.2023,Bad Schallerbach,Wolfssichtung,Videonachweis vorhanden,2023,264,48.23038864135742,13.919425010681152,"(48.33, 14.0)",4,2023-05-03,5,Spring,2,27
+03.05.2023,Kirchberg-Thening,Wolfssichtungen,Videonachweis vorhanden,2023,265,48.406211853027344,13.761320114135742,"(48.33, 13.75)",0,2023-05-03,5,Spring,0,66
+04.05.2023,St.Leonhard bei Freistadt,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,266,48.443565368652344,14.677597045898438,"(48.33, 14.75)",6,2023-05-04,5,Spring,5,2
+04.05.2023,Wallern an der Trattnach,1 totes Reh,begutachtet - DNA-Analyse: Wolf bestätigt;nördliche Quellpopulation,2023,267,48.23209762573242,13.946207046508789,"(48.33, 14.0)",4,2023-05-04,5,Spring,4,1
+05.05.2023,Kirchberg-Thening,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,268,48.406211853027344,13.761320114135742,"(48.33, 13.75)",0,2023-05-05,5,Spring,1,2
+11.05.2023,Straß im Attergau,1 totes Reh,begutachtet - DNA-Analyse: keine abschließende Beurteilung durch DNA möglich,2023,269,47.90925598144531,13.454058647155762,"(48.0, 13.5)",5,2023-05-11,5,Spring,1,9
+11.05.2023,Waldhausen,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,270,48.273353576660156,14.948308944702148,"(48.33, 15.0)",1,2023-05-11,5,Spring,1,21
+12.05.2023,St.Magdalena (Linz),1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,271,48.305908203125,14.286197662353516,"(48.33, 14.25)",8,2023-05-12,5,Spring,1,9
+13.05.2023,Wels,Wolfssichtung,kein Fotonachweis vorhanden,2023,272,48.15654754638672,14.024374961853027,"(48.0, 14.0)",4,2023-05-13,5,Spring,3,9
+15.05.2023,Allerheiligen im Mühlkreis,1 totes Reh,begutachtet - DNA-Analyse: keine abschließende Beurteilung durch DNA möglich,2023,273,48.30152130126953,14.65108871459961,"(48.33, 14.75)",1,2023-05-15,5,Spring,2,4
+15.05.2023,Waldzell,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,274,48.13511276245117,13.42806339263916,"(48.0, 13.5)",5,2023-05-15,5,Spring,2,4
+16.05.2023,Peilstein,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,275,47.926025390625,14.470599174499512,"(48.0, 14.5)",7,2023-05-16,5,Spring,0,173
+18.05.2023,Bad Leonfelden,Wolfssichtung,kein Fotonachweis vorhanden,2023,276,48.52265167236328,14.293068885803223,"(48.67, 14.25)",8,2023-05-18,5,Spring,2,6
+19.05.2023,Leopoldschlag,Wolfssichtungen,kein Fotonachweis vorhanden,2023,277,48.61591720581055,14.50361156463623,"(48.67, 14.5)",6,2023-05-19,5,Spring,5,15
+20.05.2023,Reichenthal,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,278,48.54345703125,14.384981155395508,"(48.67, 14.5)",3,2023-05-20,5,Spring,2,17
+26.05.2023,Scharnstein,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,279,47.90449142456055,13.960975646972656,"(48.0, 14.0)",4,2023-05-26,5,Spring,4,13
+28.05.2023,Leopoldschlag,Wolfssichtung,kein Fotonachweis vorhanden,2023,280,48.61591720581055,14.50361156463623,"(48.67, 14.5)",6,2023-05-28,5,Spring,4,9
+31.05.2023,St.Thomas am Blasenstein,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,281,48.312522888183594,14.76183795928955,"(48.33, 14.75)",1,2023-05-31,5,Spring,2,16
+05.06.2023,Walding,Wolfssichtung,kein Fotonachweis vorhanden,2023,282,48.351348876953125,14.161396980285645,"(48.33, 14.25)",8,2023-06-05,6,Summer,2,18
+07.06.2023,Walding,200 Masthühner,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,283,48.351348876953125,14.161396980285645,"(48.33, 14.25)",8,2023-06-07,6,Summer,3,2
+08.06.2023,Gmunden/Grünberg,Wolfssichtung,kein Fotonachweis vorhanden,2023,284,47.91858673095703,13.800304412841797,"(48.0, 13.75)",9,2023-06-08,6,Summer,0,43
+15.06.2023,Pabneukirchen,Wolfssichtung,kein Fotonachweis vorhanden,2023,285,48.319297790527344,14.81700611114502,"(48.33, 14.75)",1,2023-06-15,6,Summer,1,15
+15.06.2023,Laussa,3 tote Hühner,begutachtet - DNA-Analyse: kein eindeutiges Ergebnis,2023,286,47.95199203491211,14.455706596374512,"(48.0, 14.5)",7,2023-06-15,6,Summer,1,30
+23.06.2023,Unterweißenbach,Wolfssichtung,kein Fotonachweis vorhanden,2023,287,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2023-06-23,6,Summer,2,8
+23.06.2023,Lichtenberg,Wolfssichtung,kein Fotonachweis vorhanden,2023,288,47.928565979003906,13.423049926757812,"(48.0, 13.5)",5,2023-06-23,6,Summer,0,39
+25.06.2023,Liebenau,Wolfssichtung,kein Fotonachweis vorhanden,2023,289,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2023-06-25,6,Summer,1,28
+26.06.2023,Gosau,Wolfssichtung,kein Fotonachweis vorhanden,2023,290,47.585105895996094,13.536215782165527,"(47.67, 13.5)",9,2023-06-26,6,Summer,1,18
+03.07.2023,Walding,Wolfssichtung,kein Fotonachweis vorhanden,2023,291,48.351348876953125,14.161396980285645,"(48.33, 14.25)",8,2023-07-03,7,Summer,2,26
+05.07.2023,Weyer,1 totes Kalb,begutachtet - DNA-Analyse: kein eindeutiges Ergebnis,2023,292,47.85725784301758,14.66356086730957,"(48.0, 14.75)",7,2023-07-05,7,Summer,1,20
+06.07.2023,Spital am Pyhrn,1 totes Kalb,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,293,47.66461181640625,14.340187072753906,"(47.67, 14.25)",2,2023-07-06,7,Summer,0,97
+06.07.2023,Molln,Übergriff auf Rinderherde,begutachtet - DNA-Analyse: Hund bestätigt,2023,294,47.88619613647461,14.257271766662598,"(48.0, 14.25)",2,2023-07-06,7,Summer,0,97
+08.07.2023,Liebenau,Wolfssichtung,Foto-/Videonachweis vorhanden,2023,295,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2023-07-08,7,Summer,1,13
+10.07.2023,Molln,1 totes Schaf,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,296,47.88619613647461,14.257271766662598,"(48.0, 14.25)",2,2023-07-10,7,Summer,2,4
+14.07.2023,Feldkirchen bei Mattighofen,Wolfssichtung,kein Fotonachweis vorhanden,2023,297,48.06752014160156,13.044207572937012,"(48.0, 13.0)",5,2023-07-14,7,Summer,1,21
+22.07.2023,St.Wolfgang,1 totes Schaf,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,298,48.577335357666016,13.888190269470215,"(48.67, 14.0)",0,2023-07-22,7,Summer,0,78
+27.07.2023,Unterweißenbach,1 totes Reh,begutachtet - DNA-Analyse: Wolf bestätigt; nördliche Quellpopulation,2023,299,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2023-07-27,7,Summer,0,34
+28.07.2023,Lichtenberg,Wolfssichtung,kein Fotonachweis vorhanden,2023,300,47.928565979003906,13.423049926757812,"(48.0, 13.5)",5,2023-07-28,7,Summer,1,14
+31.07.2023,St.Georgen am Walde,1 totes Schaf,begutachtet - DNA-Analyse: Hund bestätigt,2023,301,48.172584533691406,13.766887664794922,"(48.33, 13.75)",4,2023-07-31,7,Summer,0,66
+01.08.2023,Hinterstoder,Wolfssichtung,kein Fotonachweis vorhanden,2023,302,47.69980239868164,14.15542221069336,"(47.67, 14.25)",2,2023-08-01,8,Summer,3,22
+11.08.2023,Katsdorf,3 verletzte Pferde,begutachtet - DNA-Analyse: Wolf bestätigt; italienische Quellpopulation,2023,304,48.318050384521484,14.472869873046875,"(48.33, 14.5)",3,2023-08-11,8,Summer,0,83
+13.08.2023,Unterweißenbach,Wolfssichtungen,kein Fotonachweis vorhanden,2023,305,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2023-08-13,8,Summer,1,17
+16.08.2023,Lembach,"13 tote Hühner, 7 vermisste Hühner",begutachtet - DNA-Analyse: Fuchs bestätigt,2023,306,48.12343978881836,14.092875480651855,"(48.0, 14.0)",4,2023-08-16,8,Summer,1,16
+21.08.2023,Neumarkt im Mühlkreis,1 totes Schaf,begutachtet - DNA-Analyse: Wolf bestätigt; nördliche Quellpopulation,2023,308,48.42821502685547,14.48453426361084,"(48.33, 14.5)",3,2023-08-21,8,Summer,1,10
+26.08.2023,Unterweißenbach,Wolfssichtung,kein Fotonachweis vorhanden,2023,310,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2023-08-26,8,Summer,2,13
+12.09.2023,Katsdorf,Wolfssichtung,kein Fotonachweis vorhanden,2023,312,48.318050384521484,14.472869873046875,"(48.33, 14.5)",3,2023-09-12,9,Fall,1,22
+14.09.2023,Unterweißenbach,Wolfssichtung,kein Fotonachweis vorhanden,2023,313,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2023-09-14,9,Fall,1,19
+14.09.2023,Unterweißenbach,Wolfssichtung,Fotonachweis über Trittsiegel vorhanden,2023,314,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2023-09-14,9,Fall,1,19
+18.09.2023,Altenberg,1 totes Lamm,begutachtet - DNA-Analyse: kein eindeutiges Ergebnis,2023,315,48.411590576171875,13.812897682189941,"(48.33, 13.75)",0,2023-09-18,9,Fall,0,58
+18.09.2023,Molln,3 tote Schafe1 verletztes Schaf,begutachtet - DNA-Analyse: kein eindeutiges Ergebnis,2023,317,47.88619613647461,14.257271766662598,"(48.0, 14.25)",2,2023-09-18,9,Fall,0,48
+22.09.2023,Unterweißenbach,Wolfssichtung,kein Fotonachweis vorhanden,2023,318,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2023-09-22,9,Fall,3,8
+24.09.2023,Kefermarkt,Wolfssichtung,Videonachweis vorhanden,2023,319,48.442962646484375,14.5383882522583,"(48.33, 14.5)",3,2023-09-24,9,Fall,1,12
+24.09.2023,Altmünster/Ebensee,Sichtung Hund/Wolf,aufgrund von Fotonachweis keine eindeutige Zuordnung möglich,2023,320,48.139827728271484,13.967597961425781,"(48.0, 14.0)",4,2023-09-24,9,Fall,0,39
+24.09.2023,St.Marienkirchen an der Polsenz/Prambachkirchen,Wolfssichtung,kein Fotonachweis vorhanden,2023,321,48.30010223388672,14.00755500793457,"(48.33, 14.0)",8,2023-09-24,9,Fall,0,83
+02.10.2023,Alkoven,Sichtung Hund/Wolf,aufgrund von Fotonachweis keine eindeutige Zuordnung möglich,2023,322,48.2877197265625,14.107112884521484,"(48.33, 14.0)",8,2023-10-02,10,Fall,1,8
+04.10.2023,Königswiesen,Wolfssichtung,kein Fotonachweis vorhanden,2023,323,48.40572738647461,14.83878231048584,"(48.33, 14.75)",1,2023-10-04,10,Fall,3,12
+05.10.2023,Arnreit,Wolfssichtung,kein Fotonachweis vorhanden,2023,324,48.524879455566406,13.99489688873291,"(48.67, 14.0)",0,2023-10-05,10,Fall,1,17
+12.10.2023,Unterweißenbach,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,325,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2023-10-12,10,Fall,4,8
+16.10.2023,Engerwitzdorf,Wolfssichtung,kein Fotonachweis vorhanden,2023,326,48.344451904296875,14.4420166015625,"(48.33, 14.5)",3,2023-10-16,10,Fall,1,22
+19.10.2023,Schönau im Mühlkreis,Wolfssichtung,kein Fotonachweis vorhanden,2023,327,48.39420700073242,14.729105949401855,"(48.33, 14.75)",1,2023-10-19,10,Fall,3,7
+25.10.2023,Unterweißenbach,Wolfssichtung,kein Fotonachweis vorhanden,2023,328,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2023-10-25,10,Fall,3,6
+26.10.2023,Königswiesen,Wolfssichtung,kein Fotonachweis vorhanden,2023,329,48.40572738647461,14.83878231048584,"(48.33, 14.75)",1,2023-10-26,10,Fall,4,1
+27.10.2023,Schönau im Mühlkreis,Wolfssichtung,kein Fotonachweis vorhanden,2023,330,48.39420700073242,14.729105949401855,"(48.33, 14.75)",1,2023-10-27,10,Fall,5,1
+28.10.2023,St.Leonhard bei Freistadt,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,331,48.443565368652344,14.677597045898438,"(48.33, 14.75)",6,2023-10-28,10,Fall,0,112
+29.10.2023,Unterweißenbach,Wolfssichtungen,kein Fotonachweis vorhanden,2023,332,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2023-10-29,10,Fall,6,2
+30.10.2023,Unterweißenbach,Losungsfund,DNA-Analyse: Wolf bestätigt; nördliche Quellpopulation,2023,333,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2023-10-30,10,Fall,7,1
+03.11.2023,Eberschwang,Wolfssichtung,keine Fotonachweis vorhanden,2023,334,48.15569305419922,13.561890602111816,"(48.0, 13.5)",5,2023-11-03,11,Fall,0,98
+04.11.2023,Königswiesen,Wolfssichtung,kein Fotonachweis vorhanden,2023,335,48.40572738647461,14.83878231048584,"(48.33, 14.75)",1,2023-11-04,11,Fall,7,5
+08.11.2023,Neußerling,Wolfssichtung,kein Fotonachweis vorhanden,2023,336,48.42706298828125,14.161806106567383,"(48.33, 14.25)",8,2023-11-08,11,Fall,0,37
+09.11.2023,Maria-Neustift,1 totes Rinderkalb,begutachtet - DNA-Analyse nicht eindeutig; weitere Analysen werden durchgeführt,2023,337,47.937320709228516,14.607003211975098,"(48.0, 14.5)",7,2023-11-09,11,Fall,0,127
+09.11.2023,Pabneukirchen,1 totes Reh,begutachtet - DNA-Probe enthält keine nachweisbare Raubtier-DNA,2023,338,48.319297790527344,14.81700611114502,"(48.33, 14.75)",1,2023-11-09,11,Fall,8,5
+10.11.2023,Schönau,Wolfssichtung,kein Fotonachweis vorhanden,2023,339,48.241390228271484,13.914891242980957,"(48.33, 14.0)",4,2023-11-10,11,Fall,0,47
+10.11.2023,Bad Kreuzen,Wolfssichtung,kein Fotonachweis vorhanden,2023,340,48.26671600341797,14.807046890258789,"(48.33, 14.75)",1,2023-11-10,11,Fall,9,1
+11.11.2023,Obertraun,Wolfssichtung,kein Fotonachweis vorhanden,2023,341,47.55802536010742,13.685288429260254,"(47.67, 13.75)",9,2023-11-11,11,Fall,0,138
+14.11.2023,Königswiesen,Wolfssichtung,kein Fotonachweis vorhanden,2023,342,48.40572738647461,14.83878231048584,"(48.33, 14.75)",1,2023-11-14,11,Fall,9,4
+16.11.2023,Tragwein,Wolfssichtung,kein Fotonachweis vorhanden,2023,343,48.331295013427734,14.622075080871582,"(48.33, 14.5)",3,2023-11-16,11,Fall,0,31
+17.11.2023,Bad Zell,Wolfssichtungen,kein Fotonachweis vorhanden,2023,344,48.349586486816406,14.66864013671875,"(48.33, 14.75)",1,2023-11-17,11,Fall,10,3
+19.11.2023,Weitersfelden,Wolfssichtung,Fotonachweis vorhanden,2023,345,48.47785949707031,14.726517677307129,"(48.33, 14.75)",6,2023-11-19,11,Fall,1,22
+19.11.2023,Waldhausen im Strudengau,Wolfssichtung,Fotonachweis vorhanden,2023,346,48.273353576660156,14.948308944702148,"(48.33, 15.0)",1,2023-11-19,11,Fall,10,2
+21.11.2023,Bad Kreuzen,Wolfssichtung,kein Fotonachweis vorhanden,2023,347,48.26671600341797,14.807046890258789,"(48.33, 14.75)",1,2023-11-21,11,Fall,11,2
+22.11.2023,Königswiesen,Wolfssichtung,kein Fotonachweis vorhanden,2023,348,48.40572738647461,14.83878231048584,"(48.33, 14.75)",1,2023-11-22,11,Fall,12,1
+24.11.2023,Leopoldschlag,Wolfssichtungen,kein Fotonachweis vorhanden,2023,349,48.61591720581055,14.50361156463623,"(48.67, 14.5)",6,2023-11-24,11,Fall,2,5
+25.11.2023,Micheldorf,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,350,47.88037872314453,14.13397216796875,"(48.0, 14.25)",2,2023-11-25,11,Fall,0,68
+25.11.2023,St.Georgen am Walde,1 totes Alpaka,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,351,48.172584533691406,13.766887664794922,"(48.33, 13.75)",4,2023-11-25,11,Fall,1,15
+25.11.2023,Bad Kreuzen,Wolfssichtung,Fotonachweis vorhanden,2023,352,48.26671600341797,14.807046890258789,"(48.33, 14.75)",1,2023-11-25,11,Fall,12,3
+29.11.2023,Bad Kreuzen,Wolfssichtung,Fotonachweis vorhanden,2023,353,48.26671600341797,14.807046890258789,"(48.33, 14.75)",1,2023-11-29,11,Fall,10,4
+04.12.2023,Unterweißenbach,1 totes Reh,Verdacht auf Wolfsriss; keine Beurteilung durch DNA möglich,2023,354,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2023-12-04,12,Winter,10,5
+04.12.2023,Dimbach,Wolfssichtung,kein Fotonachweis vorhanden,2023,355,48.30641555786133,14.908028602600098,"(48.33, 15.0)",1,2023-12-04,12,Winter,10,5
+12.12.2023,Lasberg,1 totes Reh,keine Beurteilung durch DNA möglich,2023,356,48.47140121459961,14.540763854980469,"(48.33, 14.5)",3,2023-12-12,12,Winter,1,26
+17.12.2023,Weitersfelden,Wolfssichtung,kein Fotonachweis vorhanden,2023,357,48.47785949707031,14.726517677307129,"(48.33, 14.75)",6,2023-12-17,12,Winter,2,23
+17.12.2023,Katsdorf,Wolfssichtung,kein Fotonachweis vorhanden,2023,358,48.318050384521484,14.472869873046875,"(48.33, 14.5)",3,2023-12-17,12,Winter,1,5
+18.12.2023,Schörfling am Attersee,1 totes Kalb,begutachtet - DNA-Analyse: Fuchs bestätigt,2023,359,47.946353912353516,13.603560447692871,"(48.0, 13.5)",9,2023-12-18,12,Winter,0,37
+20.12.2023,Ansfelden,Wolfssichtung,kein Fotonachweis vorhanden,2023,360,48.209075927734375,14.289260864257812,"(48.33, 14.25)",8,2023-12-20,12,Winter,0,42
+20.12.2023,Katsdorf,2 verletzte Pferde,Verdacht auf Wolfsriss - DNA-Analyse: Hund bestätigt,2023,361,48.318050384521484,14.472869873046875,"(48.33, 14.5)",3,2023-12-20,12,Winter,2,3
+20.12.2023,Weitersfelden,Wolfssichtung,kein Fotonachweis vorhanden,2023,362,48.47785949707031,14.726517677307129,"(48.33, 14.75)",6,2023-12-20,12,Winter,2,3
+23.12.2023,Unterweißenbach,Wolfssichtung,kein Fotonachweis vorhanden,2023,363,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2023-12-23,12,Winter,4,19
+24.12.2023,Unterweißenbach,Wolfssichtung,kein Fotonachweis vorhanden,2023,364,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2023-12-24,12,Winter,5,1
+19.01.2022,Stiegersdorf/Wullowitz,Wolfssichtung,Fährten vorhanden,2022,365,48.64296340942383,14.453146934509277,"(48.67, 14.5)",6,2022-01-19,1,Winter,3,21
+21.01.2022,Schnürberg/Kopfing,Wolfssichtung,Beobachtung,2022,366,48.4731330871582,13.634502410888672,"(48.33, 13.75)",0,2022-01-21,1,Winter,0,223
+30.01.2022,Sandl,1 totes Schmaltier,begutachtet - DNA-Entnahme nicht möglich,2022,367,48.56035614013672,14.644402503967285,"(48.67, 14.75)",6,2022-01-30,1,Winter,1,11
+21.02.2022,Sandl,Wolfssichtung,kein Fotonachweis vorhanden,2022,368,48.56035614013672,14.644402503967285,"(48.67, 14.75)",6,2022-02-21,2,Winter,1,22
+22.02.2022,Rainbach im Mühlkreis,Wolfssichtungen,Fotonachweis/Videoaufzeichnung vorhanden,2022,369,48.557640075683594,14.476459503173828,"(48.67, 14.5)",6,2022-02-22,2,Winter,2,1
+22.02.2022,Weitersfelden/Liebenau,Wolfssichtung,Fotonachweis vorhanden,2022,370,48.47785949707031,14.726517677307129,"(48.33, 14.75)",6,2022-02-22,2,Winter,2,1
+22.02.2022,Leopoldschlag/Eisenhut,Wolfssichtung,Fotonachweis vorhanden,2022,371,48.61591720581055,14.50361156463623,"(48.67, 14.5)",6,2022-02-22,2,Winter,2,1
+24.02.2022,Liebenau,Wolfssichtungen,Fotonachweis/Videoaufzeichnung vorhanden,2022,372,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2022-02-24,2,Winter,5,2
+24.02.2022,Liebenau/Windhagmühl,Wolfssichtung,Fotonachweis/Videoaufzeichnung vorhanden,2022,373,48.44269561767578,13.950780868530273,"(48.33, 14.0)",0,2022-02-24,2,Winter,0,34
+25.02.2022,Windhaag b. Freistadt,Wolfssichtungen,Fotonachweis vorhanden,2022,374,48.58619689941406,14.561509132385254,"(48.67, 14.5)",6,2022-02-25,2,Winter,6,1
+27.02.2022,Lasberg,2 tote Gänse,begutachtet - DNA-Analyse: kein eindeutiges Ergebnis,2022,375,48.47140121459961,14.540763854980469,"(48.33, 14.5)",3,2022-02-27,2,Winter,0,187
+07.03.2022,Liebenau/Neustift,Wolfssichtung,Fotonachweis vorhanden,2022,376,48.505306243896484,14.892853736877441,"(48.67, 15.0)",1,2022-03-07,3,Spring,0,68
+25.03.2022,St. Thomas am Blasenstein,Wolfssichtung,Fotonachweis vorhanden,2022,377,48.312522888183594,14.76183795928955,"(48.33, 14.75)",1,2022-03-25,3,Spring,1,18
+31.03.2022,Sarleinsbach,Wolfssichtung,Fotonachweis/Videoaufzeichnung vorhanden,2022,378,48.54603958129883,13.905000686645508,"(48.67, 14.0)",0,2022-03-31,3,Spring,0,35
+11.04.2022,Aigen/Schlägl,1 totes Alttier (Rotwild),begutachtet - DNA-Analyse: Wolf bestätigt; nördliche Quellpopulation,2022,379,48.644813537597656,13.96917724609375,"(48.67, 14.0)",0,2022-04-11,4,Spring,1,11
+17.04.2022,Liebenau,1 totes Reh,begutachtet -DNA-Entnahme nicht möglich,2022,380,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2022-04-17,4,Spring,0,51
+29.04.2022,Lichtenau im Mühlkreis (Hörleinsödt),1 verschwundenes Kamerunschaf2 tote Kamerunschafe,begutachtet -DNA-Entnahme nicht möglich,2022,382,48.590396881103516,14.03548812866211,"(48.67, 14.0)",0,2022-04-29,4,Spring,2,18
+29.04.2022,Liebenau,1 totes Rotwild,begutachtet - DNA-Analyse: Wolf bestätigt; nördliche Quellpopulation,2022,383,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2022-04-29,4,Spring,1,12
+30.04.2022,Lichtenau im Mühlkreis (Hörleinsödt),Wolfssichtung,Fotonachweis vorhanden,2022,384,48.590396881103516,14.03548812866211,"(48.67, 14.0)",0,2022-04-30,4,Spring,3,1
+06.05.2022,Dimbach,Losungsfund,begutachtet - DNA-Analyse: Wolf bestätigt; nördliche Quellpopulation,2022,385,48.30641555786133,14.908028602600098,"(48.33, 15.0)",1,2022-05-06,5,Spring,0,42
+13.05.2022,Perwang am Grabensee,Wolfssichtung,kein Fotonachweis vorhanden,2022,386,48.00724411010742,13.0838041305542,"(48.0, 13.0)",5,2022-05-13,5,Spring,0,500
+05.06.2022,Leopoldschlag,Wolfssichtung,kein Fotonachweis vorhanden,2022,387,48.61591720581055,14.50361156463623,"(48.67, 14.5)",6,2022-06-05,6,Summer,0,37
+22.06.2022,Leopoldschlag,Wolfssichtung,kein Fotonachweis vorhanden,2022,388,48.61591720581055,14.50361156463623,"(48.67, 14.5)",6,2022-06-22,6,Summer,1,17
+09.07.2022,Liebenau,1 totes Reh,Begutachtung nicht möglich,2022,389,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2022-07-09,7,Summer,1,17
+21.07.2022,Steinbach am Attersee,1 totes Kitz,begutachtet - DNA-Analyse: Fuchs bestätigt,2022,390,47.83009338378906,13.546585083007812,"(47.67, 13.5)",9,2022-07-21,7,Summer,0,211
+01.08.2022,Ternberg,2 tote Lämmer,begutachtet - DNA-Analyse: kein eindeutiges Ergebnis,2022,391,47.94584274291992,14.357251167297363,"(48.0, 14.25)",2,2022-08-01,8,Summer,0,294
+02.09.2022,Großraming,1 totes Kitz,begutachtet - DNA-Analyse: Fuchs bestätigt,2022,392,47.88620376586914,14.550121307373047,"(48.0, 14.5)",7,2022-09-02,9,Fall,0,329
+02.09.2022,Bad Goisern,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2022,393,47.64089584350586,13.616479873657227,"(47.67, 13.5)",9,2022-09-02,9,Fall,0,43
+06.09.2022,Liebenau,Wolfssichtung,kein Fotonachweis vorhanden,2022,394,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2022-09-06,9,Fall,0,59
+11.09.2022,Mardetschlag,Wolfssichtung,kein Fotonachweis vorhanden,2022,395,48.605438232421875,14.529430389404297,"(48.67, 14.5)",6,2022-09-11,9,Fall,1,5
+23.09.2022,Vorderstoder,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2022,396,47.7127571105957,14.225030899047852,"(47.67, 14.25)",2,2022-09-23,9,Fall,0,53
+03.10.2022,Alberndorf in der Riedmark,Wolfssichtungen,kein Fotonachweis vorhanden,2022,398,48.40552520751953,14.41844654083252,"(48.33, 14.5)",3,2022-10-03,10,Fall,0,218
+18.10.2022,Alberndorf in der Riedmark,Wolfssichtung,kein Fotonachweis vorhanden,2022,399,48.40552520751953,14.41844654083252,"(48.33, 14.5)",3,2022-10-18,10,Fall,1,15
+22.10.2022,Spital am Pyhrn,1 totes Kalb,begutachtet - DNA-Analyse: Fuchs bestätigt,2022,400,47.66461181640625,14.340187072753906,"(47.67, 14.25)",2,2022-10-22,10,Fall,1,29
+24.10.2022,Leopoldschlag,Wolfssichtung,Wolfssichtung,2022,401,48.61591720581055,14.50361156463623,"(48.67, 14.5)",6,2022-10-24,10,Fall,0,43
+04.11.2022,Weitersfelden,Wolfssichtung,kein Fotonachweis vorhanden,2022,402,48.47785949707031,14.726517677307129,"(48.33, 14.75)",6,2022-11-04,11,Fall,1,11
+20.11.2022,Grenzgebiet Steiermark/Oberösterreich(Bezirk Gmunden/Kirchdorf),Wolfssichtung,,2022,403,48.05683898925781,13.698138236999512,"(48.0, 13.75)",4,2022-11-20,11,Fall,0,492
+24.11.2022,Großraming,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2022,405,47.88620376586914,14.550121307373047,"(48.0, 14.5)",7,2022-11-24,11,Fall,0,83
+25.11.2022,Molln,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2022,406,47.88619613647461,14.257271766662598,"(48.0, 14.25)",2,2022-11-25,11,Fall,0,34
+28.11.2022,Kirchschlag bei Linz,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2022,407,48.41309356689453,14.27644157409668,"(48.33, 14.25)",8,2022-11-28,11,Fall,0,492
+30.11.2022,Molln,1 totes Schaf,begutachtet DNA-Analyse: Wolf bestätigt; italienische Quellpopulation,2022,409,47.88619613647461,14.257271766662598,"(48.0, 14.25)",2,2022-11-30,11,Fall,1,5
+02.12.2022,Leonstein,1 totes Schaf,begutachtet DNA-Analyse: Wolf bestätigt; italienische Quellpopulation,2022,410,47.89508819580078,14.230809211730957,"(48.0, 14.25)",2,2022-12-02,12,Winter,2,2
+03.12.2022,Herzogsdorf,Wolfssichtung,kein Fotonachweis vorhanden,2022,411,48.43106460571289,14.11348819732666,"(48.33, 14.0)",8,2022-12-03,12,Winter,1,5
+03.12.2022,Molln,1 totes Reh,begutachtet - DNA-Analyse: Luchs bestätigt,2022,412,47.88619613647461,14.257271766662598,"(48.0, 14.25)",2,2022-12-03,12,Winter,3,1
+07.12.2022,Traunkirchen,1 totes Reh,begutachtet - DNA-Analyse nicht auswertbar,2022,413,47.844825744628906,13.790284156799316,"(48.0, 13.75)",9,2022-12-07,12,Winter,0,96
+08.12.2022,Waldhausen,1 totes Reh,begutachtet DNA-Analyse: Wolf bestätigt; italienische Quellpopulation,2022,414,48.273353576660156,14.948308944702148,"(48.33, 15.0)",1,2022-12-08,12,Winter,0,216
+09.12.2022,Mardetschlag,Wolfssichtung,kein Fotonachweis vorhanden,2022,415,48.605438232421875,14.529430389404297,"(48.67, 14.5)",6,2022-12-09,12,Winter,0,35
+12.12.2022,Lasberg,Wolfssichtung,kein Fotonachweis vorhanden,2022,416,48.47140121459961,14.540763854980469,"(48.33, 14.5)",3,2022-12-12,12,Winter,0,55
+12.12.2022,Ulrichsberg,Wolfssichtung,kein Fotonachweis vorhanden,2022,417,47.9760856628418,13.600279808044434,"(48.0, 13.5)",9,2022-12-12,12,Winter,1,5
+28.12.2022,Fornach,Wolfssichtung/Wildkamera,Fotonachweis vorhanden,2022,418,48.02287292480469,13.430584907531738,"(48.0, 13.5)",5,2022-12-28,12,Winter,0,229
+28.12.2022,Fornach,1 totes Reh,begutachtet DNA-Analyse: Wolf bestätigt; italienische Quellpopulation,2022,419,48.02287292480469,13.430584907531738,"(48.0, 13.5)",5,2022-12-28,12,Winter,0,229
+26.04.2021,Weyer,1 totes Rotwild,DNA-Analyse:Wolf bestätigt,2021,420,47.85725784301758,14.66356086730957,"(48.0, 14.75)",7,2021-04-26,4,Spring,0,474
+11.06.2021,Hengstpass/Karlhütte,Wolfssichtung,kein Fotonachweis vorhanden,2021,421,48.5157470703125,13.697065353393555,"(48.67, 13.75)",0,2021-06-11,6,Summer,0,500
+12.06.2021,Gr. Phyrgas/Hofersteig,Wolfssichtung,kein Fotonachweis vorhanden,2021,422,48.5525016784668,13.46028995513916,"(48.67, 13.5)",0,2021-06-12,6,Summer,1,1
+14.06.2021,"""Unterach """"Druckerhof"""" Eglsee""",Wolfssichtung,kein Fotonachweis vorhanden,2021,423,48.147300720214844,13.866778373718262,"(48.0, 13.75)",4,2021-06-14,6,Summer,0,374
+02.07.2021,Unterburgau bei Unterach bzw. St. Gilgen,Wolfssichtung,kein Fotonachweis vorhanden,2021,424,47.80431365966797,13.488969802856445,"(47.67, 13.5)",9,2021-07-02,7,Summer,0,394
+14.07.2021,Kefermarkt,Wolfssichtung,kein Fotonachweis vorhanden,2021,425,48.442962646484375,14.5383882522583,"(48.33, 14.5)",3,2021-07-14,7,Summer,0,500
+14.07.2021,Weyer,1 totes Rotwild,begutachtet - DNA-Entnahme nicht möglich,2021,426,47.85725784301758,14.66356086730957,"(48.0, 14.75)",7,2021-07-14,7,Summer,0,79
+15.07.2021,Gutau,2 tote Schafe,begutachtet - DNA-Entnahme nicht möglich,2021,427,48.418312072753906,14.612236022949219,"(48.33, 14.5)",6,2021-07-15,7,Summer,0,500
+16.07.2021,Egglalm/Hengstpass,Kratzspuren an einem Jungrind,DNA-Analyse: Wolf bestätigt; italienische Quellpopulation,2021,428,48.25410842895508,13.883688926696777,"(48.33, 14.0)",4,2021-07-16,7,Summer,0,32
+21.07.2021,Gosau,1 totes Kalb,begutachtet - DNA-Analyse: kein eindeutiges Ergebnis,2021,429,47.585105895996094,13.536215782165527,"(47.67, 13.5)",9,2021-07-21,7,Summer,1,19
+23.07.2021,Prendt,1 totes Schmaltier,DNA-Analyse: Wolf bestätigt; nördliche Quellpopulation,2021,431,48.57019805908203,14.55305004119873,"(48.67, 14.5)",6,2021-07-23,7,Summer,1,8
+24.07.2021,Helfenberg,1 toter Wolf,DNA-Analyse: Wolf bestätigt; nördliche Quellpopulation,2021,432,48.542667388916016,14.14220905303955,"(48.67, 14.25)",8,2021-07-24,7,Summer,0,500
+03.08.2021,"Gemeinde Engerwitzdorf, Ortschaft Haid",Wolfssichtung,kein Fotonachweis vorhanden,2021,433,48.344451904296875,14.4420166015625,"(48.33, 14.5)",3,2021-08-03,8,Summer,1,20
+24.08.2021,Hirschbach,1 toter Rehbock,begutachtet - DNA-Analyse: Fuchs bestätigt,2021,434,48.488304138183594,14.411324501037598,"(48.33, 14.5)",3,2021-08-24,8,Summer,1,21
+17.09.2021,Bad Goisern,1 totes Schaf,begutachtet - DNA-Analyse: Fuchs bestätigt,2021,436,47.64089584350586,13.616479873657227,"(47.67, 13.5)",9,2021-09-17,9,Fall,0,58
+18.09.2021,"Vorderstoder, Schafferteich",Wolfssichtung,kein Fotonachweis vorhanden,2021,437,47.7127571105957,14.225030899047852,"(47.67, 14.25)",2,2021-09-18,9,Fall,0,476
+28.09.2021,Schörfling,1 totes Lamm,begutachtet - DNA-Analyse: Fuchs bestätigt,2021,439,47.946353912353516,13.603560447692871,"(48.0, 13.5)",9,2021-09-28,9,Fall,1,11
+05.10.2021,Pierbach,1 totes Schaf,begutachtet - DNA-Analyse: Fuchs bestätigt,2021,440,48.34822463989258,14.7565279006958,"(48.33, 14.75)",1,2021-10-05,10,Fall,0,500
+08.10.2021,Weyer,1 totes Kalb,begutachtet - DNA-Analyse: Fuchs bestätigt,2021,441,47.85725784301758,14.66356086730957,"(48.0, 14.75)",7,2021-10-08,10,Fall,0,86
+11.10.2021,Steinbach am Ziehberg,1 totes Kalb,begutachtet - DNA-Analyse: Fuchs bestätigt,2021,442,47.891483306884766,14.031570434570312,"(48.0, 14.0)",2,2021-10-11,10,Fall,1,23
+13.10.2021,Ebensee,Losungsfunde,begutachtet - DNA-Analyse: Fuchs bestätigt,2021,443,47.81223678588867,13.77416706085205,"(47.67, 13.75)",9,2021-10-13,10,Fall,2,15
+17.10.2021,Weitersfelden,1 totes Kalb,begutachtet - DNA-Analyse: Fuchs bestätigt,2021,444,48.47785949707031,14.726517677307129,"(48.33, 14.75)",6,2021-10-17,10,Fall,0,86
+29.10.2021,Liebenau,1 totes Rotwildkalb,begutachtet - DNA-Analyse: Wolf bestätigt; nördliche Quellpopulation,2021,445,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2021-10-29,10,Fall,1,12
+22.12.2021,Ebensee,1 totes Schaf,begutachtet - DNA-Analyse:  kein eindeutiges Ergebnis,2021,446,47.81223678588867,13.77416706085205,"(47.67, 13.75)",9,2021-12-22,12,Winter,0,70
+25.12.2021,Liebenau,Wolfssichtung,Fotonachweis vorhanden,2021,447,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2021-12-25,12,Winter,0,57
+28.12.2021,Liebenau,Wolfssichtung,Fotonachweis vorhanden,2021,448,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2021-12-28,12,Winter,1,3
+29.12.2021,Unterweißenbach,Wolfssichtung,Fotonachweis vorhanden,2021,449,48.43539810180664,14.781949043273926,"(48.33, 14.75)",1,2021-12-29,12,Winter,0,85
+29.12.2021,Saxen,1 totes Reh,begutachtet - DNA-Analyse: Fuchs bestätigt,2021,450,48.2080192565918,14.789536476135254,"(48.33, 14.75)",1,2021-12-29,12,Winter,0,85
+29.12.2021,Liebenau,Wolfssichtung,Fotonachweis/Fährten vorhanden,2021,451,48.531654357910156,14.809042930603027,"(48.67, 14.75)",6,2021-12-29,12,Winter,2,1
+08.01.2020,Weyer,1 totes Reh,DNA-Analyse:Wolf bestätigt,2020,452,47.85725784301758,14.66356086730957,"(48.0, 14.75)",7,2020-01-08,1,Winter,0,500
+13.05.2020,Vorderstoder,1 tote Rehgeiß,DNA-Analyse:Wolf bestätigt,2020,453,47.7127571105957,14.225030899047852,"(47.67, 14.25)",2,2020-05-13,5,Spring,0,500
+30.05.2020,Steyrling,2 tote Stk. Rotwild,DNA-Analyse:Wolf bestätigt,2020,454,47.80611801147461,14.129650115966797,"(47.67, 14.25)",2,2020-05-30,5,Spring,1,17
+01.06.2020,Unterach/Attersee,1 totes Schaf1 totes Lamm,DNA-Analyse:Wolf bestätigt,2020,455,47.80431365966797,13.488969802856445,"(47.67, 13.5)",9,2020-06-01,6,Summer,0,500
+03.06.2020,Gmunden,1 totes Schaf,DNA-Analyse:Wolf bestätigt,2020,456,47.91858673095703,13.800304412841797,"(48.0, 13.75)",9,2020-06-03,6,Summer,1,2
+05.06.2020,Kirchham,1 totes Schmalreh,DNA-Analyse:Wolf bestätigt,2020,457,47.97063064575195,13.899243354797363,"(48.0, 14.0)",4,2020-06-05,6,Summer,0,500
